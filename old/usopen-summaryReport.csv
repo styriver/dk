@@ -1,0 +1,564 @@
+Name,TourneyNames,Wins,Top 5,Top 10,Top 15,Top 20,Top 30,Top 30 Percentage,Entered,Missed Cuts,Cut Percentage,Notes,Score Index,Top 5 Percentage,Top 10 Percentage,Top 15 Percentage,Top 20 Percentage,Weighted Index
+Ernie Els,usopen,0,2,1,0,0,0,0.42857143,7,2,0.2857143,usopen - (2016 - CUT) (2015 - Pos 54) (2014 - Pos 35) (2013 - Top 5) (2012 - Top 10) (2011 - CUT) (2010 - Top 5),3.64,0.2857143,0.42857143,0.42857143,0.42857143,5.14
+Marc Warren,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2015 - Top 30) (2012 - Pos 65),0.975,0,0,0,0,0.975
+Jean-Francois Lucquin,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Edward Loar,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2013 - Pos 32) (2012 - CUT),-0.355,0,0,0,0,-0.355
+Morten Orum Madsen,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2013 - Top 30),0.595,0,0,0,0,0.595
+Michael Barbosa,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Seung-Yul Noh,usopen,0,0,0,0,0,1,0.33333334,3,0,0,usopen - (2014 - Pos 52) (2011 - Top 30) (2010 - Pos 40),0.845,0,0,0,0,0.845
+Brian Harman,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2015 - CUT) (2012 - CUT),-1.5,0,0,0,0,-1.5
+Peter Lawrie,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Nick Mason,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Matthew Baldwin,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - CUT) (2012 - Pos 59),-0.79,0,0,0,0,-0.79
+Nick Sherwood,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+David Hearn,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2015 - CUT) (2013 - Top 30),-0.305,0,0,0,0,-0.305
+Jason Palmer,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Mark Silvers,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - Pos 54) (2010 - CUT),-0.085,0,0,0,0,-0.085
+Brian Rowell,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Andy Sullivan,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2016 - Top 30) (2015 - CUT),-0.05,0,0,0,0,-0.05
+Yui Ueda,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Jae-Bum Park,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2012 - Pos 59),0.21,0,0,0,0,0.21
+Brian Campbell,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2015 - Top 30) (2014 - CUT),-0.035,0,0,0,0,-0.035
+Brady Watt,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Andres Romero,usopen,0,0,0,1,0,0,1,1,0,0,usopen - (2015 - Top 15),1.665,0,0,1,0,2.165
+Ty Tryon,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2011 - CUT) (2010 - Pos 80),-0.36,0,0,0,0,-0.36
+Pablo Martin,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 82),0.14,0,0,0,0,0.14
+Russell Knox,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2016 - Top 30) (2013 - Pos 45),1.095,0,0,0,0,1.095
+Martin Laird,usopen,0,0,0,0,0,1,0.33333334,3,2,0.6666667,usopen - (2013 - Top 30) (2012 - CUT) (2011 - CUT),-0.505,0,0,0,0,-0.505
+Patrick Reed,usopen,0,0,0,1,0,0,0.33333334,3,1,0.33333334,usopen - (2016 - CUT) (2015 - Top 15) (2014 - Pos 35),0.945,0,0,0.33333334,0,1.445
+Sam Osborne,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Cliff Kresge,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Rafael Cabrera-Bello,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2012 - CUT) (2010 - Pos 47),-0.46,0,0,0,0,-0.46
+Shane Bertsch,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Rickie Fowler,usopen,0,1,1,0,0,0,0.33333334,6,3,0.5,usopen - (2016 - CUT) (2015 - CUT) (2014 - Top 5) (2013 - Top 10) (2012 - Pos 41) (2011 - CUT),1.735,0.16666667,0.33333334,0.33333334,0.33333334,2.735
+Kevin Phelan,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2013 - Pos 62) (2010 - CUT),-0.155,0,0,0,0,-0.155
+Tim Petrovic,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - WD),-0.125,0,0,0,0,-0.125
+Jason Gore,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 47),0.14,0,0,0,0,0.14
+Soren Hansen,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2010 - CUT),-1.4,0,0,0,0,-1.4
+Peter Hedblom,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2013 - Pos 65),0.245,0,0,0,0,0.245
+Cheng-Tsung Pan,usopen,0,0,0,0,0,0,0,3,1,0.33333334,usopen - (2015 - Pos 64) (2013 - Pos 45) (2011 - CUT),0.06,0,0,0,0,0.06
+Thomas Levet,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Davis Riley,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Martin Kaymer,usopen,1,0,1,1,0,0,0.42857143,7,1,0.14285715,usopen - (2016 - Pos 37) (2015 - CUT) (2014 - Win) (2013 - Pos 59) (2012 - Top 15) (2011 - Pos 39) (2010 - Top 10),4.6,0.14285715,0.2857143,0.42857143,0.2857143,5.6
+Tim O'Neal,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Kevin Foley,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Hiroyuki Fujita,usopen,0,0,0,0,0,0,0,5,3,0.6,usopen - (2015 - CUT) (2013 - CUT) (2012 - Pos 51) (2011 - CUT) (2010 - Pos 58),-1.75,0,0,0,0,-1.75
+David Frost,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Chad Campbell,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Heath Slocum,usopen,0,0,0,1,0,0,0.5,2,1,0.5,usopen - (2011 - Top 15) (2010 - CUT),0.525,0,0,0.5,0,0.525
+Yuta Ikeda,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - CUT) (2010 - Pos 58),-0.86,0,0,0,0,-0.86
+Brian Locke,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Gary Woodland,usopen,0,0,0,0,0,1,0.2,5,3,0.6,usopen - (2015 - CUT) (2014 - Pos 52) (2012 - CUT) (2011 - Top 30) (2010 - CUT),-1.195,0,0,0,0,-1.195
+Sang-Moon Bae,usopen,0,0,0,0,0,0,0,3,2,0.6666667,usopen - (2013 - CUT) (2012 - CUT) (2011 - Pos 42),-1.125,0,0,0,0,-1.125
+Tano Goya,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+D.J. Trahan,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Derek Lamely,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Adam Scott,usopen,0,1,1,1,1,0,0.5714286,7,2,0.2857143,usopen - (2016 - Top 20) (2015 - Top 5) (2014 - Top 10) (2013 - Pos 45) (2012 - Top 15) (2011 - CUT) (2010 - CUT),6.25,0.14285715,0.2857143,0.42857143,0.42857143,7.25
+Stuart Appleby,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2010 - Top 30),0.34,0,0,0,0,0.34
+Adam Long,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Robert Karlsson,usopen,0,0,0,0,0,2,0.5,4,0,0,usopen - (2013 - Pos 71) (2012 - Top 30) (2011 - Pos 45) (2010 - Top 30),1.27,0,0,0,0,1.27
+Nicholas Thompson,usopen,0,0,0,0,0,0,0,2,0,0,usopen - (2013 - Pos 56) (2012 - Pos 51),0.455,0,0,0,0,0.455
+Blayne Barber,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Andreas Harto,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+David May,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Mike Miller,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Simon Dyson,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2012 - Pos 51) (2010 - CUT),-0.19,0,0,0,0,-0.19
+Aaron Watkins,usopen,0,0,0,1,0,0,1,1,0,0,usopen - (2012 - Top 15),1.11,0,0,1,0,1.11
+Dennis Miller,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Greg Chalmers,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Chris Thompson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Ryan Palmer,usopen,0,0,0,0,0,1,0.25,4,2,0.5,usopen - (2015 - Pos 52) (2014 - CUT) (2013 - CUT) (2011 - Top 30),-0.76,0,0,0,0,-0.76
+Jerry Kelly,usopen,0,0,0,0,0,0,0,2,0,0,usopen - (2013 - Pos 41) (2010 - Pos 63),0.385,0,0,0,0,0.385
+Jordan Spieth,usopen,1,0,0,0,1,1,0.6,5,1,0.2,usopen - (2016 - Pos 37) (2015 - Win) (2014 - Top 20) (2013 - CUT) (2012 - Top 30),4.255,0.2,0.2,0.2,0.4,4.755
+Wes Heffernan,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 71),0.175,0,0,0,0,0.175
+Hyung-Sung Kim,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Raphael Jacquelin,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2012 - Top 30),0.51,0,0,0,0,0.51
+Scott Barr,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Victor Dubuisson,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2015 - CUT) (2014 - Top 30),-0.22,0,0,0,0,-0.22
+Martin Flores,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Steve Wheatcroft,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 63),0.14,0,0,0,0,0.14
+Jamie Donaldson,usopen,0,0,0,0,0,0,0,4,3,0.75,usopen - (2016 - CUT) (2015 - CUT) (2014 - CUT) (2013 - Pos 32),-2.455,0,0,0,0,-2.455
+Jesse Hutchins,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Scottie Scheffler,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Davis Love III,usopen,0,0,1,1,0,1,1,3,0,0,usopen - (2012 - Top 30) (2011 - Top 15) (2010 - Top 10),2.375,0,0.33333334,0.6666667,0.33333334,2.875
+Harold Varner III,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Donald Constable Jr,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Deane Pappas,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Mikael Lundberg,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Kevin Chappell,usopen,0,1,1,0,0,0,0.4,5,1,0.2,usopen - (2016 - CUT) (2015 - Pos 46) (2013 - Pos 32) (2012 - Top 10) (2011 - Top 5),2.395,0.2,0.4,0.4,0.4,3.395
+Grayson Murray,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Cody Gribble,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2015 - CUT) (2014 - Top 30),-0.22,0,0,0,0,-0.22
+Harris English,usopen,0,0,0,0,0,0,0,2,0,0,usopen - (2016 - Pos 37) (2014 - Pos 48),0.63,0,0,0,0,0.63
+Matt Richardson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Alex Martin,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Cameron Wilson,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2014 - CUT) (2012 - CUT),-1.4,0,0,0,0,-1.4
+Chris Williams,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2013 - CUT) (2011 - CUT),-1.2,0,0,0,0,-1.2
+Smylie Kaufman,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2014 - CUT),-1.8,0,0,0,0,-1.8
+Tim Clark,usopen,0,0,0,1,0,0,0.33333334,3,2,0.6666667,usopen - (2013 - CUT) (2012 - CUT) (2010 - Top 15),-0.56,0,0,0.33333334,0,-0.56
+Ben Martin,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - Pos 64) (2010 - CUT),-0.085,0,0,0,0,-0.085
+Stewart Cink,usopen,0,0,0,0,0,0,0,5,3,0.6,usopen - (2014 - Pos 54) (2013 - CUT) (2012 - CUT) (2011 - CUT) (2010 - Pos 40),-1.38,0,0,0,0,-1.38
+Michael Tobiason Jr.,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Hideki Matsuyama,usopen,0,0,1,0,1,0,0.5,4,1,0.25,usopen - (2016 - CUT) (2015 - Top 20) (2014 - Pos 35) (2013 - Top 10),2.14,0,0.25,0.25,0.5,2.64
+Daniel Berger,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2016 - Pos 37) (2014 - Top 30),1.03,0,0,0,0,1.03
+Kyung-Tae Kim,usopen,0,0,0,0,0,1,0.33333334,3,1,0.33333334,usopen - (2016 - CUT) (2012 - Pos 67) (2011 - Top 30),-0.365,0,0,0,0,-0.365
+Brice Garnett,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Steven Bowditch,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Gary Stal,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Azuma Yano,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2014 - CUT) (2010 - CUT),-1.2,0,0,0,0,-1.2
+Chris Kirk,usopen,0,0,0,0,0,1,0.33333334,3,1,0.33333334,usopen - (2016 - CUT) (2015 - Pos 75) (2014 - Top 30),-0.005,0,0,0,0,-0.005
+Oliver Wilson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Matt Every,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - WD) (2014 - CUT),-1.025,0,0,0,0,-1.025
+Justin Leonard,usopen,0,0,0,1,0,0,0.5,2,0,0,usopen - (2014 - Pos 59) (2010 - Top 15),1.02,0,0,0.5,0,1.02
+Gonzalo F-Castano,usopen,0,0,1,0,0,0,0.33333334,3,2,0.6666667,usopen - (2014 - CUT) (2013 - Top 10) (2012 - CUT),0.245,0,0.33333334,0.33333334,0.33333334,0.745
+Lee Slattery,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - Pos 57) (2012 - CUT),-0.25,0,0,0,0,-0.25
+Matt Weibring,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2013 - Pos 62),0.245,0,0,0,0,0.245
+Christopher Crawford,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Cole Hammer,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Jake Knapp,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Mike Weir,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2013 - Top 30) (2010 - Pos 80),0.735,0,0,0,0,0.735
+Jonathan Byrd,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2012 - Pos 56) (2011 - CUT),-0.29,0,0,0,0,-0.29
+Arjun Atwal,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Troy Kelly,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2015 - Pos 39),0.315,0,0,0,0,0.315
+Michael Putnam,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - CUT) (2011 - Pos 45),-0.725,0,0,0,0,-0.725
+Andrew Johnston,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 54),0.35,0,0,0,0,0.35
+Steve Stricker,usopen,0,0,1,1,1,1,0.8,5,0,0,usopen - (2014 - Top 30) (2013 - Top 10) (2012 - Top 15) (2011 - Top 20) (2010 - Pos 58),4.25,0,0.2,0.4,0.4,4.75
+Kenny Perry,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2014 - Top 30) (2010 - Pos 33),0.82,0,0,0,0,0.82
+Robert Allenby,usopen,0,0,0,0,0,1,0.33333334,3,2,0.6666667,usopen - (2014 - CUT) (2011 - CUT) (2010 - Top 30),-0.96,0,0,0,0,-0.96
+John Senden,usopen,0,0,1,2,0,1,0.6666667,6,2,0.33333334,usopen - (2015 - Top 15) (2014 - CUT) (2013 - Top 15) (2012 - Top 10) (2011 - Top 30) (2010 - CUT),3.595,0,0.16666667,0.5,0.16666667,4.595
+Anthony Kim,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 54),0.175,0,0,0,0,0.175
+Kenichi Kuboya,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 68),0.175,0,0,0,0,0.175
+Gareth Maybin,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 63),0.14,0,0,0,0,0.14
+Jason Dufner,usopen,0,2,1,0,1,0,0.5714286,7,2,0.2857143,usopen - (2016 - Top 10) (2015 - Top 20) (2014 - CUT) (2013 - Top 5) (2012 - Top 5) (2011 - CUT) (2010 - Pos 33),6.11,0.2857143,0.42857143,0.42857143,0.5714286,7.61
+Kevin Tway,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - CUT) (2014 - Pos 60),-0.72,0,0,0,0,-0.72
+John Peterson,usopen,0,1,0,0,0,0,0.5,2,0,0,usopen - (2013 - Pos 67) (2012 - Top 5),1.955,0.5,0.5,0.5,0.5,2.455
+Dicky Pride,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Retief Goosen,usopen,0,0,1,0,0,1,0.33333334,6,2,0.33333334,usopen - (2016 - CUT) (2015 - CUT) (2014 - Pos 45) (2012 - Top 10) (2011 - Top 30) (2010 - Pos 58),0.355,0,0.16666667,0.16666667,0.16666667,0.855
+Marcus Fraser,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - Pos 64) (2013 - CUT),-0.385,0,0,0,0,-0.385
+Jose Maria Olazabal,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Camilo Villegas,usopen,0,0,0,0,0,0,0,3,1,0.33333334,usopen - (2015 - Pos 74) (2011 - CUT) (2010 - Pos 70),-0.045,0,0,0,0,-0.045
+Andy Pope,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - CUT) (2015 - Pos 70),-0.685,0,0,0,0,-0.685
+Richard Berberian Jr,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Richie Schembechler,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Michael Campbell,usopen,0,0,0,0,0,0,0,4,4,1,usopen - (2013 - CUT) (2012 - CUT) (2011 - CUT) (2010 - CUT),-2.2,0,0,0,0,-2.2
+Patrick Wilson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Gregory Havret,usopen,0,1,0,0,0,1,1,2,0,0,usopen - (2011 - Top 30) (2010 - Top 5),1.565,0.5,0.5,0.5,0.5,2.065
+Kevin Kisner,usopen,0,0,0,1,0,0,0.33333334,3,1,0.33333334,usopen - (2016 - Pos 49) (2015 - Top 15) (2014 - CUT),1.215,0,0,0.33333334,0,1.715
+J.J. Henry,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - CUT) (2011 - Pos 54),-0.825,0,0,0,0,-0.825
+Nick Watney,usopen,0,0,0,0,0,1,0.2,5,3,0.6,usopen - (2014 - CUT) (2013 - CUT) (2012 - Top 30) (2011 - CUT) (2010 - Pos 76),-1.35,0,0,0,0,-1.35
+Paul Sheehan,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Scott Pinckney,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+John Nieporte,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Beau Hossler,usopen,0,0,0,0,0,1,0.33333334,3,1,0.33333334,usopen - (2015 - Pos 58) (2012 - Top 30) (2011 - CUT),0.325,0,0,0,0,0.325
+Joe Ogilvie,usopen,0,0,0,0,0,0,0,3,2,0.6666667,usopen - (2014 - CUT) (2013 - CUT) (2012 - Pos 72),-1.29,0,0,0,0,-1.29
+Morgan Hoffmann,usopen,0,0,0,0,0,2,0.5,4,2,0.5,usopen - (2015 - Top 30) (2013 - CUT) (2012 - Top 30) (2010 - CUT),0.175,0,0,0,0,0.175
+Rob Oppenheim,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - Pos 37) (2014 - CUT),-0.45,0,0,0,0,-0.45
+Bill Lunde,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Jim Furyk,usopen,0,2,0,1,1,0,0.5714286,7,2,0.2857143,usopen - (2016 - Top 5) (2015 - Pos 42) (2014 - Top 15) (2013 - CUT) (2012 - Top 5) (2011 - CUT) (2010 - Top 20),5.695,0.2857143,0.2857143,0.42857143,0.42857143,6.695
+Kent Eger,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Jung-Gon Hwang,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Kevin Stadler,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2014 - Pos 63),0.28,0,0,0,0,0.28
+Jared Becher,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Ryan Nelson,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2013 - CUT) (2011 - CUT),-1.2,0,0,0,0,-1.2
+Gavin Hall,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Tjaart van der Walt,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Brendan Jones,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Shane Lowry,usopen,0,1,1,0,0,0,0.5,4,2,0.5,usopen - (2016 - Top 5) (2015 - Top 10) (2014 - CUT) (2011 - CUT),3.665,0.25,0.5,0.5,0.5,4.665
+Lee Westwood,usopen,0,1,1,1,1,0,0.5714286,7,1,0.14285715,usopen - (2016 - Pos 32) (2015 - Pos 50) (2014 - CUT) (2013 - Top 15) (2012 - Top 10) (2011 - Top 5) (2010 - Top 20),4.535,0.14285715,0.2857143,0.42857143,0.42857143,5.535
+Gregor Main,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Hugo Leon,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Doug LaBelle II,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Jimmy Gunn,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2015 - Top 30),0.765,0,0,0,0,0.765
+Robert Garrigus,usopen,0,1,0,0,0,0,0.33333334,3,1,0.33333334,usopen - (2013 - WD) (2012 - CUT) (2011 - Top 5),0.65,0.33333334,0.33333334,0.33333334,0.33333334,1.15
+Andrew Svoboda,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Matt Kuchar,usopen,0,0,1,3,0,2,0.85714287,7,0,0,usopen - (2016 - Pos 46) (2015 - Top 15) (2014 - Top 15) (2013 - Top 30) (2012 - Top 30) (2011 - Top 15) (2010 - Top 10),6.465,0,0.14285715,0.5714286,0.14285715,7.465
+Shawn Stefani,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2013 - Pos 59),0.245,0,0,0,0,0.245
+Hunter Stewart,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Emiliano Grillo,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 54),0.35,0,0,0,0,0.35
+Paul Goydos,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Stephan Jaeger,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Anirban Lahiri,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2015 - CUT),-1.9,0,0,0,0,-1.9
+Brandt Jobe,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2013 - CUT) (2011 - Top 30),-0.275,0,0,0,0,-0.275
+Tiger Woods,usopen,0,1,0,0,0,1,0.5,4,1,0.25,usopen - (2015 - CUT) (2013 - Pos 32) (2012 - Top 30) (2010 - Top 5),0.995,0.25,0.25,0.25,0.25,1.495
+Brad Benjamin,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 72),0.175,0,0,0,0,0.175
+Rocco Mediate,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Fran Quinn,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2014 - Pos 56),0.28,0,0,0,0,0.28
+Dan McCarthy,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Simon Griffiths,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Joseph Bramlett,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Zach Johnson,usopen,0,0,1,0,0,1,0.2857143,7,1,0.14285715,usopen - (2016 - Top 10) (2015 - Pos 72) (2014 - Pos 40) (2013 - CUT) (2012 - Pos 41) (2011 - Top 30) (2010 - Pos 77),3.02,0,0.14285715,0.14285715,0.14285715,3.52
+Clayton Rask,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2014 - Pos 63),0.28,0,0,0,0,0.28
+Danny Willett,usopen,0,0,0,0,0,0,0,3,1,0.33333334,usopen - (2016 - Pos 37) (2015 - CUT) (2014 - Pos 45),-0.27,0,0,0,0,-0.27
+Matthew Edwards,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Aaron Wise,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Jason Kokrak,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 37),0.35,0,0,0,0,0.35
+Wil Collins,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Bennett Blakeman,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2011 - CUT) (2010 - CUT),-0.9,0,0,0,0,-0.9
+Andres Gonzales,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2011 - CUT),-1.5,0,0,0,0,-1.5
+Kurt Barnes,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Graham Delaet,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Tom Lehman,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Webb Simpson,usopen,1,0,0,1,0,0,0.33333334,6,1,0.16666667,usopen - (2016 - CUT) (2015 - Pos 46) (2014 - Pos 45) (2013 - Pos 32) (2012 - Win) (2011 - Top 15),2.775,0.16666667,0.16666667,0.33333334,0.16666667,3.275
+Mark Anguiano,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Brian Gay,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2011 - Pos 63) (2010 - CUT),-0.225,0,0,0,0,-0.225
+Sunghoon Kang,usopen,0,0,0,0,1,0,0.5,2,0,0,usopen - (2016 - Top 20) (2011 - Pos 39),1.525,0,0,0,0.5,1.525
+Jim Renner,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Robert Streb,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - CUT) (2015 - Pos 42),-0.685,0,0,0,0,-0.685
+Mark Wilson,usopen,0,0,0,0,0,0,0,3,3,1,usopen - (2014 - CUT) (2012 - CUT) (2011 - CUT),-1.9,0,0,0,0,-1.9
+Thitiphun Chuayprakong,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Ian Poulter,usopen,0,0,0,0,1,1,0.33333334,6,1,0.16666667,usopen - (2015 - Pos 54) (2014 - Top 20) (2013 - Top 30) (2012 - Pos 41) (2011 - CUT) (2010 - Pos 47),1.84,0,0,0,0.16666667,1.84
+Scott Stallings,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2013 - Pos 53),0.245,0,0,0,0,0.245
+Kevin Na,usopen,0,0,1,1,0,1,0.5,6,2,0.33333334,usopen - (2016 - Top 10) (2015 - Pos 46) (2014 - Top 15) (2012 - Top 30) (2011 - CUT) (2010 - CUT),3.755,0,0.16666667,0.33333334,0.16666667,4.255
+Brad Adamonis,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Hunter Hamrick,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2012 - Pos 46),0.21,0,0,0,0,0.21
+Bryson Dechambeau,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Garth Mulroy,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - CUT) (2014 - Pos 40),-0.62,0,0,0,0,-0.62
+Maverick McNealy,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+George McNeill,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Ryan Yip,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Kiyoshi Miyazato,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Will Grimmer,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Michael Sim,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+James Hahn,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - Pos 49) (2012 - CUT),-0.25,0,0,0,0,-0.25
+Graeme McDowell,usopen,1,1,0,1,1,1,0.71428573,7,2,0.2857143,usopen - (2016 - Top 20) (2015 - CUT) (2014 - Top 30) (2013 - CUT) (2012 - Top 5) (2011 - Top 15) (2010 - Win),4.405,0.2857143,0.2857143,0.42857143,0.42857143,5.405
+Brett Patterson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Jimmy Walker,usopen,0,0,1,0,0,0,0.33333334,3,1,0.33333334,usopen - (2016 - CUT) (2015 - Pos 58) (2014 - Top 10),1.195,0,0.33333334,0.33333334,0.33333334,1.695
+Jamie Lovemark,usopen,0,0,0,0,1,0,1,1,0,0,usopen - (2015 - Top 20),1.215,0,0,0,1,1.215
+Patrick Rodgers,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 46),0.35,0,0,0,0,0.35
+Stephen Ames,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2012 - Pos 68) (2010 - CUT),-0.19,0,0,0,0,-0.19
+Edoardo Molinari,usopen,0,0,0,0,0,0,0,2,0,0,usopen - (2011 - Pos 54) (2010 - Pos 47),0.315,0,0,0,0,0.315
+OVERALL PLAYER,usopen,0,0,0,0,0,0,0,7,0,0,usopen - (2016 - Pos -99) (2015 - Pos -99) (2014 - Pos -99) (2013 - Pos -99) (2012 - Pos -99) (2011 - Pos -99) (2010 - Pos -99),1.715,0,0,0,0,1.715
+Aaron Baddeley,usopen,0,0,0,0,0,1,0.2,5,4,0.8,usopen - (2014 - Top 30) (2013 - CUT) (2012 - CUT) (2011 - CUT) (2010 - CUT),-1.52,0,0,0,0,-1.52
+Hunter Haas,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Brandon Harkins,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 59),0.35,0,0,0,0,0.35
+Nicolas Colsaerts,usopen,0,0,1,0,0,1,0.5,4,2,0.5,usopen - (2014 - CUT) (2013 - Top 10) (2012 - Top 30) (2011 - CUT),0.855,0,0.25,0.25,0.25,1.355
+Charlie Wi,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2012 - Top 30),0.51,0,0,0,0,0.51
+Blaine Peffley,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Roberto Castro,usopen,0,0,0,0,0,0,0,3,3,1,usopen - (2015 - CUT) (2014 - CUT) (2012 - CUT),-2.3,0,0,0,0,-2.3
+Padraig Harrington,usopen,0,1,0,0,0,2,0.75,4,0,0,usopen - (2013 - Top 30) (2012 - Top 5) (2011 - Pos 45) (2010 - Top 30),2.82,0.25,0.25,0.25,0.25,3.32
+Cory McElyea,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Miguel Tabuena,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Mackenzie Hughes,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Bernd Wiesberger,usopen,0,0,0,0,0,0,0,3,3,1,usopen - (2016 - CUT) (2015 - CUT) (2014 - CUT),-2.7,0,0,0,0,-2.7
+Phil Mickelson,usopen,0,2,0,0,0,1,0.42857143,7,1,0.14285715,usopen - (2016 - CUT) (2015 - Pos 64) (2014 - Top 30) (2013 - Top 5) (2012 - Pos 65) (2011 - Pos 54) (2010 - Top 5),3.515,0.2857143,0.2857143,0.2857143,0.2857143,4.515
+Ted Potter Jr.,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Brandon Hagy,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Alex Kim,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Rhys Davies,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 74),0.14,0,0,0,0,0.14
+David Howell,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2013 - Pos 65) (2011 - CUT),-0.255,0,0,0,0,-0.255
+Rafa Cabrera Bello,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 32),0.35,0,0,0,0,0.35
+Chase Parker,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 64),0.35,0,0,0,0,0.35
+Matt Harmon,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Lee Janzen,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Derek Fathauer,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2016 - Top 30),0.85,0,0,0,0,0.85
+Brandon Crick,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Darron Stiles,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2012 - Pos 59),0.21,0,0,0,0,0.21
+Matt Jones,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Johan Edfors,usopen,0,0,0,0,1,0,1,1,0,0,usopen - (2011 - Top 20),0.675,0,0,0,1,0.675
+Brian Gaffney,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Matthew Borchert,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Dustin Johnson,usopen,1,2,1,0,0,1,0.71428573,7,1,0.14285715,usopen - (2016 - Win) (2015 - Top 5) (2014 - Top 5) (2013 - Pos 55) (2012 - CUT) (2011 - Top 30) (2010 - Top 10),9.205,0.42857143,0.5714286,0.5714286,0.5714286,11.205
+Stephen Allan,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Zac Blair,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2014 - Pos 40),0.28,0,0,0,0,0.28
+Oliver Goss,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Kyle Mueller,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Mike van Sickle,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Fred Funk,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2011 - CUT) (2010 - Pos 70),-0.36,0,0,0,0,-0.36
+Steven Fox,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Oliver Farr,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Brendon Todd,usopen,0,0,0,0,1,0,0.5,2,1,0.5,usopen - (2015 - CUT) (2014 - Top 20),0.18,0,0,0,0.5,0.18
+Kevin Streelman,usopen,0,0,0,1,0,0,0.2,5,2,0.4,usopen - (2016 - Top 15) (2014 - CUT) (2013 - CUT) (2012 - Pos 59) (2011 - Pos 67),0.735,0,0,0.2,0,1.235
+Andrew Dorn,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Ryan Moore,usopen,0,0,0,0,0,0,0,6,3,0.5,usopen - (2016 - Pos 32) (2015 - CUT) (2014 - Pos 48) (2013 - CUT) (2011 - CUT) (2010 - Pos 33),-1.33,0,0,0,0,-1.33
+Marc Turnesa,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Anders Hansen,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+David Gossett,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Kenny Kim,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Matt Mabrey,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Olin Browne,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Jaco Van zyl,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2013 - CUT),-1.7,0,0,0,0,-1.7
+Harrison Frazar,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2011 - Top 30) (2010 - CUT),0.025,0,0,0,0,0.025
+Thongchai Jaidee,usopen,0,0,0,0,0,0,0,4,3,0.75,usopen - (2015 - CUT) (2014 - CUT) (2013 - CUT) (2010 - Pos 47),-2.26,0,0,0,0,-2.26
+Branden Grace,usopen,0,2,0,0,0,0,0.5,4,1,0.25,usopen - (2016 - Top 5) (2015 - Top 5) (2013 - CUT) (2012 - Pos 51),4.925,0.5,0.5,0.5,0.5,5.925
+Jeff Overton,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 63),0.175,0,0,0,0,0.175
+Wen-Chong Liang,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2015 - CUT) (2014 - CUT),-1.7,0,0,0,0,-1.7
+David Chung,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Colt Knost,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Tommy Fleetwood,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2015 - Top 30),0.765,0,0,0,0,0.765
+Kaname Yokoo,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Adam Hadwin,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2013 - CUT) (2011 - Pos 39),-0.525,0,0,0,0,-0.525
+Stephen Gallacher,usopen,0,0,0,0,0,0,0,3,3,1,usopen - (2015 - CUT) (2014 - CUT) (2011 - CUT),-2.2,0,0,0,0,-2.2
+John Ellis,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Bio Kim,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2013 - Pos 45),0.245,0,0,0,0,0.245
+Aron Price,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2014 - CUT),-1.8,0,0,0,0,-1.8
+Brooks Koepka,usopen,0,1,0,1,1,0,0.75,4,1,0.25,usopen - (2016 - Top 15) (2015 - Top 20) (2014 - Top 5) (2012 - CUT),4.745,0.25,0.25,0.5,0.5,5.745
+Patrick Wilkes-Krier,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Alvaro Quiros,usopen,0,0,0,0,0,0,0,3,2,0.6666667,usopen - (2012 - CUT) (2011 - Pos 54) (2010 - CUT),-0.825,0,0,0,0,-0.825
+David Toms,usopen,0,1,0,0,0,0,0.16666667,6,4,0.6666667,usopen - (2016 - CUT) (2014 - CUT) (2013 - CUT) (2012 - Top 5) (2011 - CUT) (2010 - Pos 33),-1.15,0.16666667,0.16666667,0.16666667,0.16666667,-0.65
+D.A. Points,usopen,0,0,0,0,0,0,0,5,4,0.8,usopen - (2015 - Pos 58) (2014 - CUT) (2013 - CUT) (2012 - CUT) (2011 - CUT),-2.285,0,0,0,0,-2.285
+Tom Lewis,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Matthew Nesmith,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Kyle Jones,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Oliver Schniederjans,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2015 - Pos 42),0.315,0,0,0,0,0.315
+Brad Fritsch,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2015 - Pos 46),0.315,0,0,0,0,0.315
+Do-Hoon Kim,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2011 - Top 30),0.425,0,0,0,0,0.425
+Rory Sabbatini,usopen,0,0,0,0,0,1,0.33333334,3,2,0.6666667,usopen - (2013 - CUT) (2011 - Top 30) (2010 - CUT),-0.675,0,0,0,0,-0.675
+Dae-Hyun Kim,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Angel Cabrera,usopen,0,0,0,0,0,1,0.14285715,7,3,0.42857143,usopen - (2016 - Pos 37) (2015 - Pos 64) (2014 - CUT) (2013 - CUT) (2012 - Pos 46) (2011 - CUT) (2010 - Top 30),-0.785,0,0,0,0,-0.785
+John Parry,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2015 - Pos 72) (2013 - Top 30),0.91,0,0,0,0,0.91
+Max Homa,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Luke Donald,usopen,0,0,1,0,0,0,0.14285715,7,3,0.42857143,usopen - (2016 - CUT) (2015 - Pos 58) (2014 - CUT) (2013 - Top 10) (2012 - CUT) (2011 - Pos 45) (2010 - Pos 47),-0.125,0,0.14285715,0.14285715,0.14285715,0.375
+Sergio Garcia,usopen,0,1,1,0,1,1,0.5714286,7,0,0,usopen - (2016 - Top 5) (2015 - Top 20) (2014 - Pos 35) (2013 - Pos 45) (2012 - Pos 38) (2011 - Top 10) (2010 - Top 30),6.315,0.14285715,0.2857143,0.2857143,0.42857143,7.315
+Miguel Angel Jimenez,usopen,0,0,0,0,0,0,0,5,5,1,usopen - (2015 - CUT) (2014 - CUT) (2012 - CUT) (2011 - CUT) (2010 - CUT),-3.2,0,0,0,0,-3.2
+Tim Herron,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Casey Martin,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Sam Saunders,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - Pos 50) (2011 - CUT),-0.185,0,0,0,0,-0.185
+Charlie Danielson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Briny Baird,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Marc Leishman,usopen,0,0,0,0,1,0,0.2,5,3,0.6,usopen - (2016 - Top 20) (2015 - CUT) (2013 - CUT) (2011 - Pos 51) (2010 - CUT),-0.475,0,0,0,0.2,-0.475
+Bob Estes,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2012 - Pos 46) (2010 - CUT),-0.19,0,0,0,0,-0.19
+Andrea Pavan,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Justin Suh,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Matthew Fitzpatrick,usopen,0,0,0,0,0,0,0,2,0,0,usopen - (2016 - Pos 54) (2014 - Pos 48),0.63,0,0,0,0,0.63
+Charl Schwartzel,usopen,0,0,2,1,1,1,0.71428573,7,1,0.14285715,usopen - (2016 - Top 30) (2015 - Top 10) (2014 - CUT) (2013 - Top 15) (2012 - Pos 38) (2011 - Top 10) (2010 - Top 20),5.385,0,0.2857143,0.42857143,0.42857143,6.385
+Carlos Ortiz,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Michael Smith,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Jeff Curl,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2012 - Pos 56),0.21,0,0,0,0,0.21
+Romain Wattel,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 63),0.35,0,0,0,0,0.35
+Scott Hend,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Tim Wilkinson,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 61),0.35,0,0,0,0,0.35
+Scott Smith,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Erick Justesen,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 69),0.14,0,0,0,0,0.14
+Ken Duke,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Hunter Mahan,usopen,0,1,0,0,0,0,0.16666667,6,4,0.6666667,usopen - (2015 - CUT) (2014 - CUT) (2013 - Top 5) (2012 - Pos 38) (2011 - CUT) (2010 - CUT),-0.395,0.16666667,0.16666667,0.16666667,0.16666667,0.105
+Denny McCarthy,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - CUT) (2015 - Pos 42),-0.685,0,0,0,0,-0.685
+Luke Guthrie,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2014 - CUT) (2013 - CUT),-1.5,0,0,0,0,-1.5
+Rich Barcelo,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Mark McCormick,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Lucas Glover,usopen,0,0,0,0,0,0,0,7,5,0.71428573,usopen - (2016 - CUT) (2015 - CUT) (2014 - CUT) (2013 - CUT) (2012 - CUT) (2011 - Pos 42) (2010 - Pos 58),-3.685,0,0,0,0,-3.685
+Andrew Landry,usopen,0,0,0,1,0,0,1,1,0,0,usopen - (2016 - Top 15),1.85,0,0,1,0,2.35
+Paul Lawrie,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2013 - Pos 32),0.245,0,0,0,0,0.245
+Justin Rose,usopen,1,0,0,1,0,2,0.6666667,6,2,0.33333334,usopen - (2016 - CUT) (2015 - Top 30) (2014 - Top 15) (2013 - Win) (2012 - Top 30) (2011 - CUT),3.6,0.16666667,0.16666667,0.33333334,0.16666667,4.1
+Bryson DeChambeau,usopen,0,0,0,1,0,0,1,1,0,0,usopen - (2016 - Top 15),1.85,0,0,1,0,2.35
+Rod Pampling,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2014 - CUT) (2012 - Pos 70),-0.59,0,0,0,0,-0.59
+Jason Allred,usopen,0,0,0,0,0,0,0,3,2,0.6666667,usopen - (2016 - CUT) (2015 - CUT) (2010 - Pos 47),-1.76,0,0,0,0,-1.76
+Robby Shelton,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Darren Clarke,usopen,0,0,0,0,0,0,0,3,3,1,usopen - (2015 - CUT) (2014 - CUT) (2013 - CUT),-2.4,0,0,0,0,-2.4
+Patrick Cantlay,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2012 - Pos 41) (2011 - Top 30),0.635,0,0,0,0,0.635
+Jeff Maggert,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2014 - CUT),-1.8,0,0,0,0,-1.8
+Boo Weekley,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2014 - Pos 66) (2013 - CUT),-0.42,0,0,0,0,-0.42
+Y.E. Yang,usopen,0,1,0,0,0,0,0.2,5,4,0.8,usopen - (2014 - CUT) (2013 - CUT) (2012 - CUT) (2011 - Top 5) (2010 - CUT),-1.075,0.2,0.2,0.2,0.2,-0.575
+Sebastian Cappelen,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Tony Finau,usopen,0,0,0,1,0,0,0.5,2,1,0.5,usopen - (2016 - CUT) (2015 - Top 15),0.665,0,0,0.5,0,1.165
+Mathew Goggin,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2013 - Top 30),0.595,0,0,0,0,0.595
+Niclas Fasth,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Andrew D. Putnam,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Jesse Smith,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Sam Love,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Jerry Smith,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Kyle Thompson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Mathias Gronberg,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Terry Pilkadaris,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Jon Rahm,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2016 - Top 30),0.85,0,0,0,0,0.85
+Tim Weinhart,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Billy Horschel,usopen,0,1,0,0,0,2,0.75,4,0,0,usopen - (2016 - Pos 32) (2015 - Top 30) (2014 - Top 30) (2013 - Top 5),3.79,0.25,0.25,0.25,0.25,4.29
+Kevin Lucas,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Matt Bettencourt,usopen,0,0,0,0,0,0,0,3,1,0.33333334,usopen - (2013 - Pos 53) (2012 - CUT) (2010 - Pos 70),-0.215,0,0,0,0,-0.215
+Tyler Raber,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Josh Teater,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2013 - Pos 56),0.245,0,0,0,0,0.245
+Jesse Mueller,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2012 - Pos 51),0.21,0,0,0,0,0.21
+Geoff Ogilvy,usopen,0,0,0,0,1,0,0.14285715,7,5,0.71428573,usopen - (2016 - CUT) (2015 - Top 20) (2014 - CUT) (2013 - Pos 32) (2012 - CUT) (2011 - CUT) (2010 - CUT),-1.84,0,0,0,0.14285715,-1.84
+Henrik Norlander,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Cameron Smith,usopen,0,1,0,0,0,0,0.5,2,0,0,usopen - (2016 - Pos 59) (2015 - Top 5),2.915,0.5,0.5,0.5,0.5,3.415
+Patton Kizzire,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Tommy Biershenk,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Robert Dinwiddie,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Matthew Richardson,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 77),0.14,0,0,0,0,0.14
+Ross Fisher,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Jack Maguire,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2015 - Pos 58),0.315,0,0,0,0,0.315
+John Huh,usopen,0,0,0,0,1,0,1,1,0,0,usopen - (2013 - Top 20),0.945,0,0,0,1,0.945
+Tom Hoge,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2015 - CUT),-1.9,0,0,0,0,-1.9
+Sam Burns,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Keegan Bradley,usopen,0,1,0,0,0,1,0.4,5,2,0.4,usopen - (2016 - CUT) (2015 - Top 30) (2014 - Top 5) (2013 - CUT) (2012 - Pos 68),1.555,0.2,0.2,0.2,0.2,2.055
+Kirk Triplett,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Alberto Sanchez,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Brandon Brown,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+J.B. Holmes,usopen,0,0,0,0,1,1,0.6666667,3,1,0.33333334,usopen - (2016 - CUT) (2015 - Top 30) (2014 - Top 20),0.845,0,0,0,0.33333334,0.845
+Ryan Blaum,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Cole Howard,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+William McGirt,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Steve Marino,usopen,0,0,0,0,0,0,0,3,2,0.6666667,usopen - (2015 - CUT) (2012 - CUT) (2010 - Pos 63),-1.36,0,0,0,0,-1.36
+Casey Wittenberg,usopen,0,0,1,0,0,0,0.33333334,3,2,0.6666667,usopen - (2014 - CUT) (2013 - CUT) (2012 - Top 10),-0.09,0,0.33333334,0.33333334,0.33333334,0.41
+Charles Warren,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Ben Crane,usopen,0,0,0,0,0,0,0,3,3,1,usopen - (2012 - CUT) (2011 - CUT) (2010 - CUT),-1.5,0,0,0,0,-1.5
+Peter Hanson,usopen,0,0,1,0,1,0,0.4,5,2,0.4,usopen - (2016 - DQ) (2013 - CUT) (2012 - CUT) (2011 - Top 10) (2010 - Top 20),0.165,0,0.2,0.2,0.4,0.665
+Maximilian Kieffer,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2014 - CUT),-1.8,0,0,0,0,-1.8
+Nick Hardy,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - CUT) (2015 - Pos 52),-0.685,0,0,0,0,-0.685
+Russell Henley,usopen,0,0,0,0,1,0,0.2,5,2,0.4,usopen - (2015 - CUT) (2014 - Pos 60) (2013 - CUT) (2011 - Pos 42) (2010 - Top 20),-0.605,0,0,0,0.2,-0.605
+Pablo Larrazabal,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Frank Adams III,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Brian Davis,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Robert Rock,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2012 - CUT) (2011 - Top 30),-0.175,0,0,0,0,-0.175
+Zach Edmondson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Andres Echavarria,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Roger Tambellini,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Michael Thompson,usopen,0,1,0,0,0,0,0.5,2,1,0.5,usopen - (2013 - CUT) (2012 - Top 5),1.01,0.5,0.5,0.5,0.5,1.51
+Ross McGowan,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 40),0.14,0,0,0,0,0.14
+David Mathis,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Brendan Steele,usopen,0,0,0,1,0,0,0.5,2,1,0.5,usopen - (2016 - Top 15) (2013 - CUT),1.15,0,0,0.5,0,1.65
+Joshua Persons,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Steven Irwin,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Brandon McIver,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Yusaku Miyazato,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2016 - Top 30),0.85,0,0,0,0,0.85
+Rafael Echenique,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Lee McCoy,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Yoshinobu Tsukada,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Michael Kim,usopen,0,0,0,0,1,0,1,1,0,0,usopen - (2013 - Top 20),0.945,0,0,0,1,0.945
+Michael Weaver,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2013 - Pos 64),0.245,0,0,0,0,0.245
+James Morrison,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Carl Pettersson,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2013 - Pos 41) (2012 - CUT),-0.355,0,0,0,0,-0.355
+Chris Doak,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2014 - CUT) (2013 - CUT),-1.5,0,0,0,0,-1.5
+Oliver Fisher,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Gary Boyd,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Jon Mills,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Alexander Levy,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2015 - Top 30),0.765,0,0,0,0,0.765
+Brendon de Jonge,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2014 - Top 30) (2010 - Pos 33),0.82,0,0,0,0,0.82
+Chez Reavie,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2012 - CUT) (2011 - Pos 45),-0.425,0,0,0,0,-0.425
+Christo Greyling,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 68),0.175,0,0,0,0,0.175
+Joost Luiten,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - Pos 39) (2014 - CUT),-0.485,0,0,0,0,-0.485
+Billy Hurley III,usopen,0,0,0,0,0,0,0,3,2,0.6666667,usopen - (2016 - CUT) (2015 - CUT) (2014 - Pos 48),-1.62,0,0,0,0,-1.62
+Bradley Neil,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Louis Oosthuizen,usopen,0,1,1,0,0,1,0.42857143,7,2,0.2857143,usopen - (2016 - Top 30) (2015 - Top 5) (2014 - Pos 40) (2013 - WD) (2012 - CUT) (2011 - Top 10) (2010 - CUT),3.695,0.14285715,0.2857143,0.2857143,0.2857143,4.695
+Jason Day,usopen,0,3,2,0,0,0,0.8333333,6,0,0,usopen - (2016 - Top 10) (2015 - Top 10) (2014 - Top 5) (2013 - Top 5) (2012 - Pos 59) (2011 - Top 5),10.375,0.5,0.8333333,0.8333333,0.8333333,12.875
+Freddie Jacobson,usopen,0,0,0,2,0,0,0.6666667,3,1,0.33333334,usopen - (2013 - CUT) (2012 - Top 15) (2011 - Top 15),1.335,0,0,0.6666667,0,1.335
+Joe Durant,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Kyle Stanley,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2013 - Pos 73) (2012 - CUT),-0.355,0,0,0,0,-0.355
+Kevin Sutherland,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2014 - CUT) (2013 - Pos 67),-0.555,0,0,0,0,-0.555
+Sam Horsfield,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2016 - CUT) (2015 - CUT),-1.9,0,0,0,0,-1.9
+Jon Curran,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Scott Langley,usopen,0,0,0,0,1,1,0.5,4,0,0,usopen - (2014 - Pos 54) (2013 - Pos 41) (2012 - Top 30) (2010 - Top 20),1.575,0,0,0,0.25,1.575
+Nick O'Hern,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Derek Bard,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Andy Zhang,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Bud Cauley,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 63),0.175,0,0,0,0,0.175
+Bo Van Pelt,usopen,0,0,0,1,0,1,0.33333334,6,1,0.16666667,usopen - (2015 - CUT) (2014 - Pos 63) (2013 - Top 30) (2012 - Pos 59) (2011 - Top 15) (2010 - Pos 40),1.25,0,0,0.16666667,0,1.25
+Charlie Beljan,usopen,0,0,0,0,1,0,1,1,0,0,usopen - (2015 - Top 20),1.215,0,0,0,1,1.215
+Erik Compton,usopen,0,1,0,0,0,0,0.33333334,3,2,0.6666667,usopen - (2015 - CUT) (2014 - Top 5) (2010 - CUT),0.98,0.33333334,0.33333334,0.33333334,0.33333334,1.48
+Colin Montgomerie,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2015 - Pos 64),0.315,0,0,0,0,0.315
+Sebastian Soderberg,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Bill Haas,usopen,0,0,0,0,0,1,0.16666667,6,3,0.5,usopen - (2016 - Pos 51) (2015 - CUT) (2014 - Pos 35) (2013 - CUT) (2012 - CUT) (2011 - Top 30),-1.145,0,0,0,0,-1.145
+George Coetzee,usopen,0,0,0,0,0,0,0,3,1,0.33333334,usopen - (2015 - Pos 70) (2013 - Pos 56) (2012 - CUT),-0.04,0,0,0,0,-0.04
+Alexandre Rocha,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 68),0.175,0,0,0,0,0.175
+Matt Marshall,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 61),0.35,0,0,0,0,0.35
+Alistair Presnell,usopen,0,0,0,0,0,1,0.5,2,0,0,usopen - (2013 - Pos 67) (2012 - Top 30),0.755,0,0,0,0,0.755
+Wes Short Jr.,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Zack Byrd,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Jason Bohn,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2012 - Pos 71),0.21,0,0,0,0,0.21
+Jay Don Blake,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Chris Stroud,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 47),0.14,0,0,0,0,0.14
+Jason Preeo,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 82),0.14,0,0,0,0,0.14
+John Rollins,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Jonas Blixt,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Elliot Gealy,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Todd Hamilton,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2011 - Pos 60),0.175,0,0,0,0,0.175
+Bubba Watson,usopen,0,0,0,0,0,0,0,6,3,0.5,usopen - (2016 - Pos 51) (2015 - CUT) (2014 - CUT) (2013 - Pos 32) (2012 - CUT) (2011 - Pos 63),-1.53,0,0,0,0,-1.53
+Chris Deforest,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Graeme Storm,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Bubba Dickerson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Matt Dobyns,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Henrik Stenson,usopen,0,1,0,0,0,4,0.8333333,6,0,0,usopen - (2016 - WD) (2015 - Top 30) (2014 - Top 5) (2013 - Top 30) (2011 - Top 30) (2010 - Top 30),4.155,0.16666667,0.16666667,0.16666667,0.16666667,4.655
+T.J. Howe,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Ryan Sullivan,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+John Mallinger,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2010 - Top 30),0.34,0,0,0,0,0.34
+Blake Adams,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2012 - Top 30),0.51,0,0,0,0,0.51
+Charles Howell III,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Brad Elder,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2015 - Pos 58),0.315,0,0,0,0,0.315
+Craig Barlow,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2014 - CUT) (2010 - Pos 77),-0.66,0,0,0,0,-0.66
+Danny Lee,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - Pos 57) (2015 - CUT),-0.55,0,0,0,0,-0.55
+Ben Curtis,usopen,0,0,0,1,0,0,1,1,0,0,usopen - (2010 - Top 15),0.74,0,0,1,0,0.74
+Eddie Pepperell,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+J J. Henry,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Anthony Summers,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Cameron Tringale,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2015 - Pos 54),0.315,0,0,0,0,0.315
+Zack Fischer,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Seuk-Hyun Baek,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Kent Jones,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 74),0.14,0,0,0,0,0.14
+Gregory Bourdy,usopen,0,0,0,0,1,0,0.5,2,1,0.5,usopen - (2016 - Top 20) (2012 - CUT),0.75,0,0,0,0.5,0.75
+David Duval,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 70),0.14,0,0,0,0,0.14
+Michael Whitehead,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Maarten Lafeber,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Kiradech Aphibarnrat,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Daniel Summerhays,usopen,0,0,1,0,0,1,0.6666667,3,1,0.33333334,usopen - (2016 - Top 10) (2015 - Top 30) (2010 - CUT),2.715,0,0.33333334,0.33333334,0.33333334,3.215
+David Oh,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+K.J. Choi,usopen,0,0,0,1,0,0,0.25,4,1,0.25,usopen - (2013 - Pos 32) (2012 - Top 15) (2011 - CUT) (2010 - Pos 47),0.995,0,0,0.25,0,0.995
+Ryan Stachler,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Brian Stuard,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2014 - CUT) (2013 - CUT),-1.5,0,0,0,0,-1.5
+Justin Thomas,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - Pos 32) (2014 - CUT),-0.45,0,0,0,0,-0.45
+Michael Davan,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Shiv Kapur,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2015 - CUT) (2014 - Top 30),-0.22,0,0,0,0,-0.22
+Nicholas Lindheim,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2014 - Pos 56),0.28,0,0,0,0,0.28
+Peter Uihlein,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Simon Khan,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2013 - Pos 72) (2010 - CUT),-0.155,0,0,0,0,-0.155
+Chris Wilson,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Toru Taniguchi,usopen,0,0,0,0,0,0,0,4,2,0.5,usopen - (2016 - CUT) (2014 - Pos 67) (2012 - CUT) (2010 - Pos 63),-1.18,0,0,0,0,-1.18
+Austin Jordan,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Sean O'Hair,usopen,0,0,0,1,0,0,1,1,0,0,usopen - (2010 - Top 15),0.74,0,0,1,0,0.74
+Justin Hicks,usopen,0,0,0,0,0,0,0,4,2,0.5,usopen - (2016 - Pos 67) (2013 - CUT) (2012 - CUT) (2011 - Pos 60),-0.775,0,0,0,0,-0.775
+Joey Lamielle,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Alex Cejka,usopen,0,0,1,0,0,0,0.25,4,1,0.25,usopen - (2014 - Pos 60) (2012 - Pos 41) (2011 - CUT) (2010 - Top 10),0.93,0,0.25,0.25,0.25,1.43
+Alexander Noren,usopen,0,0,0,0,0,0,0,4,3,0.75,usopen - (2016 - CUT) (2015 - CUT) (2012 - CUT) (2011 - Pos 51),-2.325,0,0,0,0,-2.325
+Eric Axley,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 63),0.14,0,0,0,0,0.14
+Travis Hampshire,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2010 - CUT),-0.4,0,0,0,0,-0.4
+Spencer Levin,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2016 - Pos 65) (2012 - CUT),-0.25,0,0,0,0,-0.25
+Ethan Tracy,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 65),0.35,0,0,0,0,0.35
+Gunn Yang,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Trevor Immelman,usopen,0,0,0,0,0,0,0,3,3,1,usopen - (2012 - CUT) (2011 - CUT) (2010 - CUT),-1.5,0,0,0,0,-1.5
+Jim Herman,usopen,0,0,0,0,0,0,0,4,2,0.5,usopen - (2016 - CUT) (2013 - Pos 67) (2012 - CUT) (2010 - Pos 47),-1.215,0,0,0,0,-1.215
+Mikko Ilonen,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2012 - CUT) (2010 - CUT),-1,0,0,0,0,-1
+John Hahn,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Steven Alker,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2014 - CUT) (2013 - Pos 45),-0.555,0,0,0,0,-0.555
+Masahiro Kawamura,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Derek Chang,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Dong-Hwan Lee,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Francesco Molinari,usopen,0,0,0,0,0,3,0.5,6,3,0.5,usopen - (2015 - Top 30) (2014 - Top 30) (2013 - CUT) (2012 - Top 30) (2011 - CUT) (2010 - CUT),0.355,0,0,0,0,0.355
+Will Wilcox,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Anthony Broussard,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Byeong-Hun An,usopen,0,0,0,0,0,1,0.33333334,3,2,0.6666667,usopen - (2016 - Top 30) (2015 - CUT) (2010 - CUT),-0.45,0,0,0,0,-0.45
+Michael Allen,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2012 - Pos 56),0.21,0,0,0,0,0.21
+Paul Casey,usopen,0,0,0,0,0,0,0,6,2,0.33333334,usopen - (2016 - CUT) (2015 - Pos 39) (2014 - Pos 56) (2013 - Pos 45) (2011 - CUT) (2010 - Pos 40),-0.52,0,0,0,0,-0.52
+Kyoung-Hoon Lee,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Ryo Ishikawa,usopen,0,0,0,0,0,1,0.25,4,2,0.5,usopen - (2015 - CUT) (2012 - CUT) (2011 - Top 30) (2010 - Pos 33),-0.935,0,0,0,0,-0.935
+Thorbjorn Olesen,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Shunsuke Sonoda,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Shaun Micheel,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2010 - Top 30),0.34,0,0,0,0,0.34
+Rory McIlroy,usopen,1,0,1,0,0,1,0.42857143,7,3,0.42857143,usopen - (2016 - CUT) (2015 - Top 10) (2014 - Top 30) (2013 - Pos 41) (2012 - CUT) (2011 - Win) (2010 - CUT),2.715,0.14285715,0.2857143,0.2857143,0.2857143,3.715
+Tom Watson,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2010 - Top 30),0.34,0,0,0,0,0.34
+Randall Hutchison,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Marcel Siem,usopen,0,0,0,1,0,0,0.25,4,1,0.25,usopen - (2015 - CUT) (2014 - Top 15) (2013 - Pos 59) (2011 - Pos 60),1,0,0,0.25,0,1
+Soren Kjeldsen,usopen,0,0,0,0,0,0,0,3,2,0.6666667,usopen - (2016 - CUT) (2012 - CUT) (2010 - Pos 33),-1.46,0,0,0,0,-1.46
+Cory Whitsett,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Geoffrey Sisk,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2013 - CUT) (2011 - CUT),-1.2,0,0,0,0,-1.2
+Richard H. Lee,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Vijay Singh,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2012 - CUT) (2010 - Pos 40),-0.46,0,0,0,0,-0.46
+Hudson Swafford,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2014 - CUT) (2010 - CUT),-1.2,0,0,0,0,-1.2
+Chad Collins,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Scott Piercy,usopen,0,1,0,0,0,0,0.25,4,2,0.5,usopen - (2016 - Top 5) (2013 - CUT) (2012 - CUT) (2011 - Pos 51),1.725,0.25,0.25,0.25,0.25,2.225
+Thomas Bjorn,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Thomas Aiken,usopen,0,0,0,0,0,1,0.5,2,1,0.5,usopen - (2016 - CUT) (2015 - Top 30),-0.235,0,0,0,0,-0.235
+Rikard Karlberg,usopen,0,0,0,0,0,0,0,2,2,1,usopen - (2013 - CUT) (2010 - CUT),-1.1,0,0,0,0,-1.1
+Charley Hoffman,usopen,0,0,0,0,0,0,0,4,1,0.25,usopen - (2016 - Pos 37) (2015 - CUT) (2013 - Pos 45) (2011 - Pos 45),-0.13,0,0,0,0,-0.13
+Hideto Tanihara,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2016 - Pos 51),0.35,0,0,0,0,0.35
+Scott Verplank,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2010 - Pos 47),0.14,0,0,0,0,0.14
+David Lingmerth,usopen,0,0,0,1,1,0,1,2,0,0,usopen - (2016 - Top 15) (2013 - Top 20),2.795,0,0,0.5,0.5,3.295
+Jeev Milkha Singh,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1
+Tadahiro Takayama,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Matteo Manassero,usopen,0,0,0,0,0,0,0,4,1,0.25,usopen - (2016 - Pos 46) (2013 - CUT) (2012 - Pos 46) (2011 - Pos 54),0.035,0,0,0,0,0.035
+Brett Stegmaier,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Tyler Duncan,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Chris Wood,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2016 - Top 30),0.85,0,0,0,0,0.85
+Bobby Gates,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2014 - CUT) (2010 - Pos 40),-0.66,0,0,0,0,-0.66
+Paul Claxton,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Lucas Bjerregaard,usopen,0,0,0,0,0,0,0,2,1,0.5,usopen - (2015 - CUT) (2014 - Pos 40),-0.62,0,0,0,0,-0.62
+Brandt Snedeker,usopen,0,0,3,1,1,0,0.8333333,6,1,0.16666667,usopen - (2016 - CUT) (2015 - Top 10) (2014 - Top 10) (2013 - Top 20) (2011 - Top 15) (2010 - Top 10),5.805,0,0.5,0.6666667,0.6666667,7.305
+Steve Lebrun,usopen,0,0,0,0,0,0,0,1,0,0,usopen - (2012 - Pos 46),0.21,0,0,0,0,0.21
+Ricky Barnes,usopen,0,0,0,0,0,1,1,1,0,0,usopen - (2010 - Top 30),0.34,0,0,0,0,0.34
+Kent Bulle,usopen,0,0,0,0,0,0,0,1,1,1,usopen - (2016 - CUT),-1,0,0,0,0,-1

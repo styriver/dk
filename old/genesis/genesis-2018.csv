@@ -1,0 +1,147 @@
+POS,MOV,PLAYER,OVERALL,THRU,RND,R1,R2,R3,R4,TOT
+1,-,"Watson, Bubba",-12,F,-2,68,70,65,69,272
+T2,1,"Finau, Tony",-10,F,-2,66,71,68,69,274
+T2,1,"Na, Kevin",-10,F,-2,68,70,67,69,274
+T4,2,"Cantlay, Patrick",-9,F,E,66,69,69,71,275
+T4,4,"Stallings, Scott",-9,F,-3,71,68,68,68,275
+T6,14,"Hadwin, Adam",-8,F,-5,70,74,66,66,276
+T6,7,"Mickelson, Phil",-8,F,-3,70,71,67,68,276
+T6,3,"Smith, Cameron",-8,F,E,72,68,65,71,276
+T9,7,"Laird, Martin",-7,F,-3,68,73,68,68,277
+T9,1,"Moore, Ryan",-7,F,-1,68,68,71,70,277
+T9,7,"Schauffele, Xander",-7,F,-3,71,70,68,68,277
+T9,11,"Spieth, Jordan",-7,F,-4,71,70,69,67,277
+T9,1,"Thomas, Justin",-7,F,-1,69,71,67,70,277
+T14,6,"Baddeley, Aaron",-6,F,E,72,68,67,71,278
+T14,2,"Hahn, James",-6,F,-2,70,69,70,69,278
+T16,9,"Fathauer, Derek",-4,F,3,68,70,68,74,280
+T16,8,"Johnson, Dustin",-4,F,2,74,69,64,73,280
+T16,10,"Kang, Sunghoon",-4,F,-2,70,72,69,69,280
+T16,10,"Noren, Alexander",-4,F,-2,71,69,71,69,280
+T20,6,"Cauley, Bud",-3,F,-1,70,72,69,70,281
+T20,-,"Chappell, Kevin",-3,F,E,69,71,70,71,281
+T20,-,"Gooch, Talor",-3,F,E,73,70,67,71,281
+T20,4,"Kokrak, Jason",-3,F,1,68,72,69,72,281
+T20,22,"McIlroy, Rory *",-3,F,-3,71,69,73,68,281
+T20,-,"Taylor, Vaughn",-3,F,E,72,70,68,71,281
+T26,-,"Bozzelli, Dominic",-2,F,E,67,75,69,71,282
+T26,11,"Cabrera Bello, Rafa *",-2,F,-1,72,67,73,70,282
+T26,11,"Huh, John",-2,F,-1,70,72,70,70,282
+T26,16,"Kuchar, Matt *",-2,F,-2,73,71,69,69,282
+T26,13,"Lahiri, Anirban",-2,F,3,72,69,67,74,282
+T26,11,"List, Luke *",-2,F,-1,72,71,69,70,282
+T26,-,"Lovemark, Jamie",-2,F,E,68,70,73,71,282
+T26,23,"McDowell, Graeme",-2,F,6,69,66,70,77,282
+T26,16,"Rodgers, Patrick *",-2,F,-2,70,71,72,69,282
+T26,13,"Saunders, Sam",-2,F,3,67,69,72,74,282
+T26,11,"Uihlein, Peter",-2,F,-1,70,73,69,70,282
+T37,17,"Donald, Luke *",-1,F,-3,71,72,72,68,283
+T37,14,"Fleetwood, Tommy *",-1,F,-2,70,71,73,69,283
+T37,11,"Grace, Branden",-1,F,1,70,72,69,72,283
+T37,5,"Howell III, Charles *",-1,F,-1,74,70,69,70,283
+T41,21,"Blixt, Jonas",E,F,3,71,71,68,74,284
+T41,4,"DeChambeau, Bryson",E,F,1,71,69,72,72,284
+T41,13,"Harkins, Brandon *",E,F,-2,71,70,74,69,284
+T41,1,"Hoffman, Charley *",E,F,E,75,69,69,71,284
+T41,15,"Merritt, Troy",E,F,2,68,71,72,73,284
+T41,15,"Perez, Pat",E,F,2,72,70,69,73,284
+T41,15,"Streelman, Kevin",E,F,2,72,70,69,73,284
+T41,24,"Taylor, Nick *",E,F,-3,71,71,74,68,284
+T49,21,"Campbell, Chad *",1,F,-3,73,71,73,68,285
+T49,5,"Casey, Paul *",1,F,-1,73,71,71,70,285
+
+T49,7,"Cook, Austin *",1,F,1,74,66,73,72,285
+T49,2,"Steele, Brendan *",1,F,E,72,71,71,71,285
+T53,2,"Goosen, Retief *",2,F,1,68,71,75,72,286
+T53,27,"Hoge, Tom",2,F,4,67,73,71,75,286
+T53,1,"Kaymer, Martin *",2,F,E,73,67,75,71,286
+T53,27,"Li, Hao-Tong",2,F,4,71,71,69,75,286
+T53,1,"Schenk, Adam *",2,F,E,76,67,72,71,286
+T53,1,"Scott, Adam *",2,F,E,72,72,71,71,286
+T53,11,"Silverman, Ben *",2,F,2,72,71,70,73,286
+T60,18,"Blaum, Ryan *",3,F,3,71,70,72,74,287
+T60,6,"Holmes, J.B. *",3,F,1,71,71,73,72,287
+T60,6,"Varner III, Harold *",3,F,1,73,70,72,72,287
+63,9,"Kraft, Kelly *",4,F,2,71,72,72,73,288
+T64,1,"Armour, Ryan *",5,F,2,71,71,74,73,289
+T64,10,"Harrington, Padraig *",5,F,3,71,73,71,74,289
+T64,1,"O'Hair, Sean *",5,F,2,71,72,73,73,289
+67,7,"Piller, Martin *",6,F,E,72,72,75,71,290
+T68,3,"Ancer, Abraham *",7,F,4,72,69,75,75,291
+T68,3,"Chalmers, Greg *",7,F,4,73,69,74,75,291
+T68,26,"Pieters, Thomas *",7,F,7,71,71,71,78,291
+T68,2,"Schwartzel, Charl *",7,F,3,71,73,73,74,291
+T68,2,"van Aswegen, Tyrone *",7,F,3,70,72,75,74,291
+T73,3,"Reavie, Chez *",8,F,E,68,76,77,71,292
+T73,19,"Singh, Vijay *",8,F,6,72,70,73,77,292
+T75,5,"Bae, Sangmoon *",10,F,6,73,71,73,77,294
+T75,-,"Lingmerth, David *",10,F,3,73,71,76,74,294
+
+CUT,-,"Bradley, Keegan *",3,,,72,73,,,145
+CUT,-,"Brown, Scott *",3,,,72,73,,,145
+CUT,-,"Dahmen, Joel",3,,,72,73,,,145
+CUT,-,"Els, Ernie",3,,,69,76,,,145
+CUT,-,"Glover, Lucas",3,,,73,72,,,145
+CUT,-,"Lee, Danny",3,,,73,72,,,145
+CUT,-,"Malnati, Peter",3,,,75,70,,,145
+CUT,-,"Pan, Cheng Tsung",3,,,70,75,,,145
+CUT,-,"Schniederjans, Ollie *",3,,,74,71,,,145
+CUT,-,"Stanley, Kyle *",3,,,70,75,,,145
+CUT,-,"Stefani, Shawn",3,,,71,74,,,145
+CUT,-,"Streb, Robert",3,,,75,70,,,145
+CUT,-,"Tway, Kevin *",3,,,75,70,,,145
+CUT,-,"Wise, Aaron *",3,,,68,77,,,145
+CUT,-,"Furyk, Jim",4,,,73,73,,,146
+CUT,-,"Gribble, Cody *",4,,,71,75,,,146
+CUT,-,"Henry, J.J.",4,,,73,73,,,146
+CUT,-,"Hurley III, Billy",4,,,70,76,,,146
+CUT,-,"Kim, Si-Woo",4,,,72,74,,,146
+CUT,-,"Kim, Michael *",4,,,71,75,,,146
+CUT,-,"McLachlin, Parker *",4,,,71,75,,,146
+CUT,-,"Merrick, John",4,,,75,71,,,146
+CUT,-,"Molinari, Francesco *",4,,,77,69,,,146
+CUT,-,"Ogilvy, Geoff",4,,,72,74,,,146
+CUT,-,"Walker, Jimmy *",4,,,72,74,,,146
+CUT,-,"Champ, Cameron *",5,,,75,72,,,147
+CUT,-,"English, Harris *",5,,,71,76,,,147
+CUT,-,"Every, Matt",5,,,72,75,,,147
+CUT,-,"Gomez, Fabian",5,,,75,72,,,147
+CUT,-,"Hossler, Beau *",5,,,72,75,,,147
+CUT,-,"Lee, Richard H.",5,,,73,74,,,147
+CUT,-,"Leishman, Marc",5,,,74,73,,,147
+CUT,-,"Tringale, Cameron",5,,,74,73,,,147
+CUT,-,"Vegas, Jhonattan",5,,,77,70,,,147
+CUT,-,"Bryan, Wesley *",6,,,70,78,,,148
+CUT,-,"Choi, K.J.",6,,,74,74,,,148
+CUT,-,"Curran, Jon",6,,,76,72,,,148
+CUT,-,"Dou, Zecheng *",6,,,74,74,,,148
+CUT,-,"Horschel, Billy *",6,,,71,77,,,148
+CUT,-,"Lowry, Shane *",6,,,73,75,,,148
+CUT,-,"McGirt, William",6,,,73,75,,,148
+CUT,-,"Potter Jr., Ted *",6,,,76,72,,,148
+CUT,-,"Woods, Tiger",6,,,72,76,,,148
+CUT,-,"Zhang, Xinjun",6,,,72,76,,,148
+CUT,-,"Flores, Martin *",7,,,75,74,,,149
+CUT,-,"Garnett, Brice *",7,,,77,72,,,149
+CUT,-,"Gay, Brian *",7,,,74,75,,,149
+CUT,-,"Kaufman, Smylie *",7,,,74,75,,,149
+CUT,-,"Landry, Andrew *",7,,,77,72,,,149
+CUT,-,"Oppenheim, Rob *",7,,,75,74,,,149
+CUT,-,"Randolph, Jonathan",7,,,73,76,,,149
+CUT,-,"Scheffler, Scottie * (a)",7,,,73,76,,,149
+CUT,-,"Stuard, Brian",7,,,75,74,,,149
+CUT,-,"Jaeger, Stephan",8,,,78,72,,,150
+CUT,-,"Kim, Seung Hyuk *",8,,,78,72,,,150
+CUT,-,"Points, D.A.",8,,,75,75,,,150
+CUT,-,"Villegas, Camilo *",8,,,76,74,,,150
+CUT,-,"Berger, Daniel",9,,,75,76,,,151
+CUT,-,"Kim, Meen-Whee",9,,,73,78,,,151
+CUT,-,"Stroud, Chris *",9,,,77,74,,,151
+CUT,-,"Duncan, Tyler",10,,,74,78,,,152
+CUT,-,"Spaun, J.J. *",14,,,79,77,,,156
+CUT,-,"Beljan, Charlie *",15,,,80,77,,,157
+CUT,-,"Loupe, Andrew",15,,,79,78,,,157
+CUT,-,"Poncino, Vinnie",15,,,82,75,,,157
+WD,-,"Hoffmann, Morgan *",5,,,72,71,,,143
+WD,-,"Herman, Jim *",6,,,77,,,,77
+WD,-,"Lindheim, Nicholas *",9,,,76,,,,76

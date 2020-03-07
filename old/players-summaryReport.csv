@@ -1,0 +1,283 @@
+Name,TourneyNames,Wins,Top 5,Top 10,Top 15,Top 20,Top 30,Top 30 Percentage,Entered,Missed Cuts,Cut Percentage,Notes,Score Index,Top 5 Percentage,Top 10 Percentage,Top 15 Percentage,Top 20 Percentage,Weighted Index
+Ernie Els,players,0,0,0,0,0,0,0,6,3,0.5,players - (2016 - Pos 64) (2015 - Pos 66) (2014 - MDF) (2013 - CUT) (2012 - CUT) (2011 - CUT),-0.855,0,0,0,0,-0.855
+David Lynn,players,0,0,0,0,0,1,1,1,0,0,players - (2013 - Top 30),0.595,0,0,0,0,0.595
+Brian Harman,players,0,0,1,0,0,0,0.2,5,2,0.4,players - (2016 - Pos 54) (2015 - Top 10) (2014 - CUT) (2013 - CUT) (2012 - Pos 51),1.175,0,0.2,0.2,0.2,1.675
+Seung-Yul Noh,players,0,0,0,0,0,0,0,3,1,0.33333334,players - (2015 - CUT) (2014 - MDF) (2013 - Pos 66),-0.375,0,0,0,0,-0.375
+Harrison Frazar,players,0,0,0,0,0,0,0,1,0,0,players - (2012 - Pos 46),0.21,0,0,0,0,0.21
+Thongchai Jaidee,players,0,0,0,0,0,0,0,2,2,1,players - (2015 - CUT) (2014 - CUT),-1.7,0,0,0,0,-1.7
+Branden Grace,players,0,0,0,0,0,0,0,3,0,0,players - (2016 - Pos 57) (2015 - Pos 42) (2013 - Pos 48),0.91,0,0,0,0,0.91
+David Hearn,players,0,0,1,0,0,2,0.6,5,0,0,players - (2016 - Top 30) (2015 - Pos 42) (2014 - Top 10) (2013 - Top 30) (2012 - Pos 68),3.85,0,0.2,0.2,0.2,4.35
+Andy Sullivan,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Jeff Overton,players,0,0,0,0,0,2,0.33333334,6,3,0.5,players - (2016 - CUT) (2015 - CUT) (2014 - MDF) (2013 - Top 30) (2012 - CUT) (2011 - Top 30),-1.2,0,0,0,0,-1.2
+Michael Bradley,players,0,0,0,0,0,0,0,2,2,1,players - (2012 - CUT) (2011 - CUT),-1.1,0,0,0,0,-1.1
+Colt Knost,players,0,1,0,0,0,0,0.33333334,3,1,0.33333334,players - (2016 - Top 5) (2013 - WD) (2012 - CUT),2.075,0.33333334,0.33333334,0.33333334,0.33333334,2.575
+Adam Hadwin,players,0,0,0,0,0,0,0,2,1,0.5,players - (2016 - Pos 39) (2015 - CUT),-0.55,0,0,0,0,-0.55
+Stephen Gallacher,players,0,0,0,0,0,0,0,2,1,0.5,players - (2015 - Pos 38) (2014 - CUT),-0.485,0,0,0,0,-0.485
+Andres Romero,players,0,0,0,0,0,0,0,5,3,0.6,players - (2015 - CUT) (2014 - CUT) (2013 - Pos 37) (2012 - CUT) (2011 - Pos 39),-1.88,0,0,0,0,-1.88
+Jhonattan Vegas,players,0,0,1,0,0,0,0.25,4,1,0.25,players - (2016 - Pos 57) (2015 - Pos 42) (2012 - Top 10) (2011 - CUT),1.575,0,0.25,0.25,0.25,2.075
+Chesson Hadley,players,0,0,0,0,0,1,0.33333334,3,2,0.6666667,players - (2016 - CUT) (2015 - Top 30) (2014 - CUT),-1.035,0,0,0,0,-1.035
+Nick Taylor,players,0,0,0,0,0,0,0,2,1,0.5,players - (2016 - CUT) (2015 - Pos 73),-0.685,0,0,0,0,-0.685
+Russell Knox,players,0,0,0,0,2,0,0.6666667,3,0,0,players - (2016 - Top 20) (2015 - Top 20) (2014 - Pos 34),2.845,0,0,0,0.6666667,2.845
+Brooks Koepka,players,0,0,0,0,0,0,0,2,1,0.5,players - (2016 - Pos 35) (2015 - CUT),-0.55,0,0,0,0,-0.55
+Martin Laird,players,0,2,0,0,0,0,0.4,5,2,0.4,players - (2016 - CUT) (2014 - CUT) (2013 - Top 5) (2012 - Top 5) (2011 - Pos 69),2.08,0.4,0.4,0.4,0.4,3.08
+Patrick Reed,players,0,0,0,0,0,1,0.33333334,3,2,0.6666667,players - (2016 - CUT) (2015 - Top 30) (2014 - CUT),-1.035,0,0,0,0,-1.035
+Alvaro Quiros,players,0,0,1,0,0,0,0.5,2,0,0,players - (2012 - Pos 40) (2011 - Top 10),1.385,0,0.5,0.5,0.5,1.885
+David Toms,players,0,1,1,1,0,0,0.75,4,1,0.25,players - (2015 - Top 15) (2013 - CUT) (2012 - Top 10) (2011 - Top 5),3.8,0.25,0.5,0.75,0.5,5.3
+D.A. Points,players,0,0,0,0,0,0,0,4,2,0.5,players - (2014 - CUT) (2013 - Pos 48) (2012 - DNS) (2011 - CUT),-1.205,0,0,0,0,-1.205
+Rickie Fowler,players,1,1,0,0,0,0,0.33333334,6,3,0.5,players - (2016 - CUT) (2015 - Win) (2014 - MDF) (2013 - CUT) (2012 - Top 5) (2011 - CUT),2.805,0.33333334,0.33333334,0.33333334,0.33333334,3.805
+Rory Sabbatini,players,0,0,1,0,0,1,0.4,5,1,0.2,players - (2015 - Top 10) (2014 - Pos 38) (2013 - Pos 71) (2012 - CUT) (2011 - Top 30),2.465,0,0.2,0.2,0.2,2.965
+Tim Petrovic,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Angel Cabrera,players,0,0,0,0,0,0,0,5,0,0,players - (2015 - WD) (2014 - Pos 38) (2013 - Pos 55) (2012 - WD) (2011 - Pos 41),0.325,0,0,0,0,0.325
+Jason Gore,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Luke Donald,players,0,1,1,0,1,0,0.5,6,2,0.33333334,players - (2016 - CUT) (2015 - CUT) (2014 - Pos 38) (2013 - Top 20) (2012 - Top 10) (2011 - Top 5),2.16,0.16666667,0.33333334,0.33333334,0.5,3.16
+Sergio Garcia,players,0,2,1,1,0,0,0.6666667,6,0,0,players - (2016 - Pos 54) (2015 - Top 5) (2014 - Top 5) (2013 - Top 10) (2012 - Pos 56) (2011 - Top 15),7.975,0.33333334,0.5,0.6666667,0.5,9.475
+Tim Herron,players,0,0,0,1,0,0,0.5,2,1,0.5,players - (2013 - Top 15) (2012 - CUT),0.695,0,0,0.5,0,0.695
+Martin Kaymer,players,1,0,0,1,1,0,0.5,6,0,0,players - (2016 - Pos 39) (2015 - Pos 56) (2014 - Win) (2013 - Pos 43) (2012 - Top 15) (2011 - Top 20),5.375,0.16666667,0.16666667,0.33333334,0.33333334,5.875
+Chad Campbell,players,0,0,0,0,0,1,0.25,4,1,0.25,players - (2016 - Pos 39) (2013 - Pos 43) (2012 - CUT) (2011 - Top 30),0.42,0,0,0,0,0.42
+Heath Slocum,players,0,0,0,0,0,0,0,2,1,0.5,players - (2012 - Pos 64) (2011 - CUT),-0.29,0,0,0,0,-0.29
+Briny Baird,players,0,0,0,0,0,0,0,2,0,0,players - (2014 - WD) (2012 - WD),-0.35,0,0,0,0,-0.35
+Marc Leishman,players,0,0,1,0,0,2,0.5,6,1,0.16666667,players - (2016 - Pos 64) (2015 - Top 30) (2014 - Top 30) (2013 - Top 10) (2012 - Pos 45) (2011 - CUT),3.15,0,0.16666667,0.16666667,0.16666667,3.65
+Bob Estes,players,0,0,0,1,0,0,1,1,0,0,players - (2012 - Top 15),1.11,0,0,1,0,1.11
+Gary Woodland,players,0,0,0,1,0,1,0.4,5,3,0.6,players - (2016 - Top 30) (2015 - CUT) (2014 - Top 15) (2012 - CUT) (2011 - CUT),0.33,0,0,0.2,0,0.33
+Matthew Fitzpatrick,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Sang-Moon Bae,players,0,0,0,0,0,0,0,3,1,0.33333334,players - (2014 - Pos 68) (2013 - Pos 33) (2012 - CUT),-0.075,0,0,0,0,-0.075
+Charl Schwartzel,players,0,0,0,0,0,1,0.25,4,0,0,players - (2015 - Pos 51) (2014 - Pos 48) (2013 - Pos 55) (2011 - Top 30),1.265,0,0,0,0,1.265
+D.J. Trahan,players,0,0,0,0,0,0,0,2,1,0.5,players - (2012 - DQ) (2011 - CUT),-0.65,0,0,0,0,-0.65
+Carlos Ortiz,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Derek Lamely,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Tim Wilkinson,players,0,0,0,0,0,0,0,1,1,1,players - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Adam Scott,players,0,0,0,2,1,0,0.5,6,1,0.16666667,players - (2016 - Top 15) (2015 - Pos 38) (2014 - Pos 38) (2013 - Top 20) (2012 - Top 15) (2011 - CUT),4,0,0,0.33333334,0.16666667,4.5
+Stuart Appleby,players,0,0,0,0,0,0,0,2,1,0.5,players - (2014 - MDF) (2011 - CUT),-0.22,0,0,0,0,-0.22
+Derek Ernst,players,0,0,0,0,0,0,0,2,2,1,players - (2014 - CUT) (2013 - CUT),-1.5,0,0,0,0,-1.5
+Robert Karlsson,players,0,0,0,0,0,1,0.5,2,0,0,players - (2012 - Pos 56) (2011 - Top 30),0.635,0,0,0,0,0.635
+Ken Duke,players,0,1,0,0,0,0,0.25,4,3,0.75,players - (2016 - Top 5) (2014 - CUT) (2013 - CUT) (2012 - CUT),0.75,0.25,0.25,0.25,0.25,1.25
+Chris Riley,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Hunter Mahan,players,0,0,1,0,1,0,0.33333334,6,4,0.6666667,players - (2016 - CUT) (2015 - CUT) (2014 - CUT) (2013 - Top 20) (2012 - CUT) (2011 - Top 10),-1.18,0,0.16666667,0.16666667,0.33333334,-0.68
+Nicholas Thompson,players,0,0,0,0,0,0,0,2,2,1,players - (2014 - CUT) (2013 - CUT),-1.5,0,0,0,0,-1.5
+Luke Guthrie,players,0,0,0,0,0,0,0,3,2,0.6666667,players - (2015 - Pos 51) (2014 - CUT) (2013 - CUT),-1.185,0,0,0,0,-1.185
+Lucas Glover,players,0,0,0,0,0,0,0,4,3,0.75,players - (2014 - CUT) (2013 - CUT) (2012 - CUT) (2011 - Pos 50),-1.925,0,0,0,0,-1.925
+Simon Dyson,players,0,0,0,0,0,0,0,1,0,0,players - (2012 - WD),-0.15,0,0,0,0,-0.15
+Greg Chalmers,players,0,0,0,0,0,0,0,4,2,0.5,players - (2014 - CUT) (2013 - Pos 37) (2012 - CUT) (2011 - Pos 41),-0.98,0,0,0,0,-0.98
+Woody Austin,players,0,0,0,0,0,0,0,1,1,1,players - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Justin Rose,players,0,1,0,0,1,0,0.33333334,6,2,0.33333334,players - (2016 - Top 20) (2015 - CUT) (2014 - Top 5) (2013 - CUT) (2012 - Pos 51) (2011 - Pos 45),2.415,0.16666667,0.16666667,0.16666667,0.33333334,2.915
+Ryan Palmer,players,0,1,0,0,0,1,0.33333334,6,3,0.5,players - (2016 - Top 30) (2015 - CUT) (2014 - Pos 59) (2013 - Top 5) (2012 - CUT) (2011 - CUT),1.125,0.16666667,0.16666667,0.16666667,0.16666667,1.625
+Jerry Kelly,players,0,0,0,0,2,0,0.33333334,6,2,0.33333334,players - (2016 - Top 20) (2015 - Top 20) (2014 - CUT) (2013 - Pos 37) (2012 - CUT) (2011 - Pos 64),1.585,0,0,0,0.33333334,1.585
+Jordan Spieth,players,0,1,0,0,0,0,0.33333334,3,2,0.6666667,players - (2016 - CUT) (2015 - CUT) (2014 - Top 5),0.38,0.33333334,0.33333334,0.33333334,0.33333334,0.88
+Rod Pampling,players,0,0,0,0,0,0,0,1,0,0,players - (2012 - Pos 56),0.21,0,0,0,0,0.21
+Martin Flores,players,0,0,0,0,0,0,0,3,1,0.33333334,players - (2015 - Pos 38) (2014 - Pos 48) (2013 - CUT),-0.105,0,0,0,0,-0.105
+Steve Wheatcroft,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 71),0.35,0,0,0,0,0.35
+Troy Matteson,players,0,0,0,0,0,0,0,3,3,1,players - (2013 - CUT) (2012 - CUT) (2011 - CUT),-1.8,0,0,0,0,-1.8
+Tom Pernice Jr.,players,0,0,0,0,0,0,0,1,1,1,players - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Darren Clarke,players,0,0,0,0,0,0,0,1,1,1,players - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Ryuji Imada,players,0,0,0,0,0,0,0,2,2,1,players - (2012 - CUT) (2011 - CUT),-1.1,0,0,0,0,-1.1
+Jamie Donaldson,players,0,0,1,0,0,0,0.5,2,0,0,players - (2015 - Top 10) (2014 - Pos 38),2.395,0,0.5,0.5,0.5,2.895
+Jeff Maggert,players,0,1,0,0,0,0,0.33333334,3,0,0,players - (2014 - Pos 48) (2013 - Top 5) (2012 - Pos 35),2.485,0.33333334,0.33333334,0.33333334,0.33333334,2.985
+Boo Weekley,players,0,0,0,0,1,0,0.2,5,3,0.6,players - (2016 - Top 20) (2015 - CUT) (2014 - CUT) (2013 - Pos 48) (2011 - CUT),-0.605,0,0,0,0.2,-0.605
+Alex Prugh,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Davis Love III,players,0,0,0,1,0,0,0.25,4,2,0.5,players - (2016 - CUT) (2013 - Pos 48) (2012 - CUT) (2011 - Top 15),-0.43,0,0,0.25,0,-0.43
+Y.E. Yang,players,0,0,0,0,0,0,0,4,4,1,players - (2014 - CUT) (2013 - CUT) (2012 - CUT) (2011 - CUT),-2.6,0,0,0,0,-2.6
+Harold Varner III,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 57),0.35,0,0,0,0,0.35
+Sangmoon Bae,players,0,0,0,0,0,1,1,1,0,0,players - (2015 - Top 30),0.765,0,0,0,0,0.765
+Tony Finau,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Chris Couch,players,0,0,0,0,0,1,0.5,2,0,0,players - (2012 - Top 30) (2011 - Pos 50),0.685,0,0,0,0,0.685
+Fabian Gomez,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 74),0.35,0,0,0,0,0.35
+Johnson Wagner,players,0,0,0,0,0,0,0,5,3,0.6,players - (2016 - Pos 64) (2014 - CUT) (2013 - CUT) (2012 - Pos 35) (2011 - CUT),-1.44,0,0,0,0,-1.44
+Kevin Chappell,players,0,1,0,0,0,1,0.33333334,6,2,0.33333334,players - (2016 - Top 5) (2015 - CUT) (2014 - Top 30) (2013 - Pos 68) (2012 - CUT) (2011 - Pos 69),2.45,0.16666667,0.16666667,0.16666667,0.16666667,2.95
+Harris English,players,0,0,0,0,0,0,0,5,3,0.6,players - (2016 - CUT) (2015 - CUT) (2014 - CUT) (2013 - Pos 33) (2012 - Pos 64),-2.245,0,0,0,0,-2.245
+Mark O'Meara,players,0,0,0,0,0,0,0,1,0,0,players - (2011 - Pos 74),0.175,0,0,0,0,0.175
+Smylie Kaufman,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Billy Horschel,players,0,0,0,1,0,2,0.75,4,1,0.25,players - (2016 - Top 30) (2015 - Top 15) (2014 - Top 30) (2013 - CUT),2.495,0,0,0.25,0,2.995
+Matt Bettencourt,players,0,0,0,0,0,0,0,2,2,1,players - (2012 - CUT) (2011 - CUT),-1.1,0,0,0,0,-1.1
+Tim Clark,players,0,0,0,0,0,1,0.25,4,2,0.5,players - (2014 - CUT) (2013 - CUT) (2012 - Top 30) (2011 - WD),-1.115,0,0,0,0,-1.115
+Josh Teater,players,0,0,0,0,0,0,0,4,2,0.5,players - (2014 - CUT) (2013 - Pos 62) (2012 - Pos 46) (2011 - CUT),-0.845,0,0,0,0,-0.845
+Ben Martin,players,0,1,0,0,0,0,0.5,2,1,0.5,players - (2016 - CUT) (2015 - Top 5),1.565,0.5,0.5,0.5,0.5,2.065
+Peter Malnati,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Stewart Cink,players,0,0,0,0,1,0,0.2,5,2,0.4,players - (2015 - CUT) (2014 - Pos 38) (2013 - CUT) (2012 - Pos 64) (2011 - Top 20),-0.435,0,0,0,0.2,-0.435
+Hideki Matsuyama,players,0,0,1,0,1,1,1,3,0,0,players - (2016 - Top 10) (2015 - Top 20) (2014 - Top 30),4.245,0,0.33333334,0.33333334,0.6666667,4.745
+Daniel Berger,players,0,0,1,0,0,0,0.5,2,1,0.5,players - (2016 - Top 10) (2015 - CUT),1.45,0,0.5,0.5,0.5,1.95
+Geoff Ogilvy,players,0,0,0,1,0,1,0.4,5,1,0.2,players - (2015 - Top 30) (2014 - Pos 69) (2013 - CUT) (2012 - Top 15) (2011 - WD),1.33,0,0,0.2,0,1.33
+Patton Kizzire,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 76),0.35,0,0,0,0,0.35
+Brice Garnett,players,0,0,0,0,0,0,0,1,1,1,players - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Tom Gillis,players,0,0,0,0,0,0,0,2,1,0.5,players - (2013 - CUT) (2012 - Pos 35),-0.49,0,0,0,0,-0.49
+Ross Fisher,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Steven Bowditch,players,0,0,0,0,0,0,0,3,2,0.6666667,players - (2016 - CUT) (2015 - CUT) (2014 - Pos 48),-1.62,0,0,0,0,-1.62
+John Huh,players,0,0,0,0,0,1,0.2,5,2,0.4,players - (2016 - CUT) (2015 - CUT) (2014 - MDF) (2013 - Pos 68) (2012 - Top 30),-0.865,0,0,0,0,-0.865
+Corey Pavin,players,0,0,0,0,0,0,0,1,0,0,players - (2011 - Pos 45),0.175,0,0,0,0,0.175
+Billy Mayfair,players,0,0,0,0,0,0,0,1,1,1,players - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Chris Kirk,players,0,0,0,2,0,0,0.33333334,6,1,0.16666667,players - (2016 - WD) (2015 - Top 15) (2014 - Top 15) (2013 - Pos 55) (2012 - Pos 51) (2011 - CUT),2.85,0,0,0.33333334,0,3.35
+Matt Every,players,0,0,0,0,0,1,0.2,5,3,0.6,players - (2016 - CUT) (2015 - Pos 42) (2014 - CUT) (2013 - Top 30) (2012 - CUT),-1.49,0,0,0,0,-1.49
+Justin Leonard,players,0,0,0,0,0,0,0,5,1,0.2,players - (2015 - CUT) (2014 - Pos 38) (2013 - Pos 55) (2012 - Pos 70) (2011 - Pos 57),0.01,0,0,0,0,0.01
+Gonzalo F-Castano,players,0,0,0,0,0,0,0,3,2,0.6666667,players - (2015 - CUT) (2014 - Pos 38) (2013 - CUT),-1.32,0,0,0,0,-1.32
+Keegan Bradley,players,0,0,0,0,0,0,0,6,3,0.5,players - (2016 - Pos 35) (2015 - CUT) (2014 - CUT) (2013 - CUT) (2012 - Pos 35) (2011 - Pos 72),-1.665,0,0,0,0,-1.665
+J.B. Holmes,players,0,0,1,0,0,0,0.2,5,3,0.6,players - (2016 - CUT) (2015 - Pos 51) (2014 - CUT) (2012 - CUT) (2011 - Top 10),-0.91,0,0.2,0.2,0.2,-0.41
+William McGirt,players,0,0,0,0,0,0,0,4,2,0.5,players - (2016 - Pos 43) (2015 - CUT) (2014 - CUT) (2013 - Pos 43),-1.105,0,0,0,0,-1.105
+Steve Marino,players,0,0,0,0,1,0,1,1,0,0,players - (2011 - Top 20),0.675,0,0,0,1,0.675
+Casey Wittenberg,players,0,0,1,0,0,0,1,1,0,0,players - (2013 - Top 10),1.645,0,1,1,1,2.145
+Ben Crane,players,0,0,1,0,0,0,0.2,5,3,0.6,players - (2015 - CUT) (2014 - CUT) (2013 - Top 10) (2012 - CUT) (2011 - Pos 45),-0.48,0,0.2,0.2,0.2,0.02
+Peter Hanson,players,0,0,0,1,1,0,0.6666667,3,0,0,players - (2013 - Pos 72) (2012 - Top 15) (2011 - Top 20),2.03,0,0,0.33333334,0.33333334,2.03
+Russell Henley,players,0,0,0,0,1,1,0.5,4,2,0.5,players - (2016 - CUT) (2015 - Top 30) (2014 - Top 20) (2013 - CUT),0.145,0,0,0,0.25,0.145
+D.H. Lee,players,0,0,0,0,0,0,0,1,0,0,players - (2014 - WD),-0.2,0,0,0,0,-0.2
+Brian Davis,players,0,0,0,1,0,2,0.6,5,1,0.2,players - (2015 - CUT) (2014 - Top 15) (2013 - Pos 72) (2012 - Top 30) (2011 - Top 30),1.76,0,0,0.2,0,1.76
+Si-Woo Kim,players,0,0,0,0,0,1,1,1,0,0,players - (2016 - Top 30),0.85,0,0,0,0,0.85
+Jonathan Byrd,players,0,0,0,1,0,0,0.25,4,2,0.5,players - (2014 - CUT) (2013 - CUT) (2012 - Top 15) (2011 - Pos 41),-0.215,0,0,0.25,0,-0.215
+Arjun Atwal,players,0,0,0,0,0,0,0,2,1,0.5,players - (2012 - CUT) (2011 - Pos 57),-0.425,0,0,0,0,-0.425
+Michael Thompson,players,0,0,0,0,0,0,0,4,2,0.5,players - (2015 - CUT) (2014 - CUT) (2013 - Pos 55) (2012 - Pos 51),-1.245,0,0,0,0,-1.245
+Kyle Reifers,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 64),0.35,0,0,0,0,0.35
+Scott Brown,players,0,0,0,0,0,1,0.25,4,2,0.5,players - (2016 - CUT) (2015 - Top 30) (2014 - Pos 62) (2013 - CUT),-0.655,0,0,0,0,-0.655
+Michael Putnam,players,0,0,0,0,0,0,0,2,2,1,players - (2015 - CUT) (2014 - CUT),-1.7,0,0,0,0,-1.7
+Steve Stricker,players,0,0,0,2,0,0,0.4,5,1,0.2,players - (2015 - Pos 38) (2014 - Top 15) (2013 - Pos 37) (2012 - CUT) (2011 - Top 15),2.365,0,0,0.4,0,2.365
+Kenny Perry,players,0,0,0,0,0,0,0,2,1,0.5,players - (2014 - CUT) (2011 - Pos 39),-0.625,0,0,0,0,-0.625
+Robert Allenby,players,0,0,0,0,0,0,0,4,1,0.25,players - (2015 - Pos 56) (2013 - CUT) (2012 - Pos 61) (2011 - Pos 50),5.55E-17,0,0,0,0,5.55E-17
+David Mathis,players,0,0,0,1,0,0,0.5,2,1,0.5,players - (2013 - CUT) (2012 - Top 15),0.41,0,0,0.5,0,0.41
+Brendan Steele,players,0,0,0,0,0,1,0.16666667,6,4,0.6666667,players - (2016 - Pos 57) (2015 - CUT) (2014 - Top 30) (2013 - CUT) (2012 - CUT) (2011 - CUT),-1.67,0,0,0,0,-1.67
+John Senden,players,0,0,1,0,0,1,0.33333334,6,3,0.5,players - (2016 - CUT) (2015 - Top 10) (2014 - Top 30) (2013 - Pos 43) (2012 - CUT) (2011 - CUT),0.94,0,0.16666667,0.16666667,0.16666667,1.44
+Anthony Kim,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Will Claxton,players,0,0,0,0,0,0,0,1,1,1,players - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Jason Dufner,players,0,0,1,0,0,0,0.16666667,6,1,0.16666667,players - (2016 - Pos 49) (2015 - CUT) (2014 - Pos 48) (2013 - Pos 62) (2012 - Pos 68) (2011 - Top 10),1.36,0,0.16666667,0.16666667,0.16666667,1.86
+John Peterson,players,0,0,0,0,0,0,0,1,0,0,players - (2014 - Pos 59),0.28,0,0,0,0,0.28
+J.P. Hayes,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Dicky Pride,players,0,0,0,0,0,0,0,1,1,1,players - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Retief Goosen,players,0,0,0,1,0,0,0.16666667,6,2,0.33333334,players - (2016 - Top 15) (2015 - CUT) (2014 - Pos 48) (2013 - WD) (2012 - CUT) (2011 - Pos 61),0.63,0,0,0.16666667,0,1.13
+Carl Pettersson,players,0,0,1,0,0,0,0.16666667,6,2,0.33333334,players - (2016 - CUT) (2015 - WD) (2014 - CUT) (2013 - Pos 68) (2012 - Top 10) (2011 - Pos 33),-0.195,0,0.16666667,0.16666667,0.16666667,0.305
+Camilo Villegas,players,0,0,0,0,0,0,0,5,4,0.8,players - (2016 - Pos 70) (2015 - CUT) (2014 - CUT) (2012 - CUT) (2011 - CUT),-2.45,0,0,0,0,-2.45
+Brendon de Jonge,players,0,0,0,2,0,0,0.33333334,6,1,0.16666667,players - (2016 - Pos 57) (2015 - Pos 63) (2014 - Pos 70) (2013 - Top 15) (2012 - Top 15) (2011 - CUT),2.85,0,0,0.33333334,0,2.85
+Chez Reavie,players,0,0,0,0,0,0,0,2,2,1,players - (2016 - CUT) (2012 - CUT),-1.6,0,0,0,0,-1.6
+Bryce Molder,players,0,0,0,1,0,0,0.16666667,6,2,0.33333334,players - (2016 - Top 15) (2015 - Pos 63) (2014 - CUT) (2013 - CUT) (2012 - Pos 40) (2011 - Pos 33),1.05,0,0,0.16666667,0,1.55
+Joost Luiten,players,0,0,0,0,0,0,0,2,0,0,players - (2015 - Pos 51) (2014 - MDF),0.595,0,0,0,0,0.595
+Billy Hurley III,players,0,0,0,0,0,0,0,1,1,1,players - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Greg Owen,players,0,0,0,0,0,0,0,2,2,1,players - (2016 - CUT) (2013 - CUT),-1.7,0,0,0,0,-1.7
+Louis Oosthuizen,players,0,0,0,0,1,1,0.33333334,6,3,0.5,players - (2016 - Top 30) (2015 - Pos 69) (2014 - CUT) (2013 - Top 20) (2012 - CUT) (2011 - CUT),0.21,0,0,0,0.16666667,0.21
+Kevin Kisner,players,0,1,0,0,0,0,0.5,2,1,0.5,players - (2016 - CUT) (2015 - Top 5),1.565,0.5,0.5,0.5,0.5,2.065
+J.J. Henry,players,0,0,0,0,0,1,0.2,5,2,0.4,players - (2016 - Top 30) (2014 - Pos 48) (2013 - CUT) (2012 - Pos 40) (2011 - CUT),0.14,0,0,0,0,0.14
+Jason Day,players,1,0,1,0,1,0,0.6,5,2,0.4,players - (2016 - Win) (2015 - CUT) (2013 - Top 20) (2012 - CUT) (2011 - Top 10),3.97,0.2,0.4,0.4,0.6,4.97
+Freddie Jacobson,players,0,0,0,0,0,0,0,6,1,0.16666667,players - (2016 - Pos 49) (2015 - Pos 42) (2014 - Pos 64) (2013 - Pos 48) (2012 - CUT) (2011 - Pos 64),0.765,0,0,0,0,0.765
+James Driscoll,players,0,0,0,0,0,1,0.33333334,3,2,0.6666667,players - (2014 - CUT) (2013 - Top 30) (2012 - CUT),-0.805,0,0,0,0,-0.805
+Nick Watney,players,0,1,0,0,0,0,0.2,5,3,0.6,players - (2015 - CUT) (2014 - CUT) (2013 - CUT) (2012 - Pos 56) (2011 - Top 5),-0.765,0.2,0.2,0.2,0.2,-0.265
+Scott Pinckney,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Joe Durant,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Kyle Stanley,players,0,0,0,0,0,0,0,3,1,0.33333334,players - (2014 - Pos 71) (2013 - Pos 33) (2012 - CUT),-0.075,0,0,0,0,-0.075
+Kevin Sutherland,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Jon Curran,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 39),0.35,0,0,0,0,0.35
+Scott Langley,players,0,0,0,0,0,0,0,3,1,0.33333334,players - (2015 - Pos 66) (2014 - Pos 34) (2013 - CUT),-0.105,0,0,0,0,-0.105
+Nick O'Hern,players,0,0,0,0,0,0,0,2,2,1,players - (2012 - CUT) (2011 - CUT),-1.1,0,0,0,0,-1.1
+Joe Ogilvie,players,0,0,0,0,0,0,0,1,1,1,players - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Kris Blanks,players,0,0,0,0,0,0,0,2,0,0,players - (2012 - Pos 40) (2011 - Pos 64),0.385,0,0,0,0,0.385
+Dean Wilson,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+J. J. Killeen,players,0,0,0,0,0,0,0,1,1,1,players - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Bud Cauley,players,0,0,0,0,0,0,0,2,2,1,players - (2013 - CUT) (2012 - CUT),-1.3,0,0,0,0,-1.3
+Bo Van Pelt,players,0,0,1,0,0,2,0.6,5,1,0.2,players - (2015 - Top 30) (2014 - Top 30) (2013 - Pos 62) (2012 - Top 10) (2011 - CUT),2.6,0,0.2,0.2,0.2,3.1
+Morgan Hoffmann,players,0,0,0,0,1,0,0.33333334,3,1,0.33333334,players - (2016 - Pos 49) (2015 - CUT) (2014 - Top 20),0.53,0,0,0,0.33333334,0.53
+Charlie Beljan,players,0,0,0,0,0,0,0,2,1,0.5,players - (2014 - Pos 48) (2013 - CUT),-0.42,0,0,0,0,-0.42
+Bill Lunde,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Erik Compton,players,0,0,0,0,0,1,0.25,4,2,0.5,players - (2016 - CUT) (2015 - Top 30) (2014 - Pos 34) (2013 - CUT),-0.655,0,0,0,0,-0.655
+Jim Furyk,players,0,1,0,0,0,1,0.33333334,6,2,0.33333334,players - (2016 - Pos 35) (2015 - Pos 56) (2014 - Top 5) (2013 - CUT) (2012 - Top 30) (2011 - CUT),2.255,0.16666667,0.16666667,0.16666667,0.16666667,2.755
+Cameron Beckman,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Bill Haas,players,0,1,0,0,0,2,0.5,6,2,0.33333334,players - (2016 - Pos 43) (2015 - Top 5) (2014 - Top 30) (2013 - CUT) (2012 - Top 30) (2011 - CUT),2.905,0.16666667,0.16666667,0.16666667,0.16666667,3.405
+Kevin Stadler,players,0,0,0,0,0,1,0.25,4,3,0.75,players - (2014 - CUT) (2013 - CUT) (2012 - Top 30) (2011 - CUT),-1.49,0,0,0,0,-1.49
+Shane Lowry,players,0,0,0,0,1,0,0.5,2,1,0.5,players - (2016 - Top 20) (2015 - CUT),0.45,0,0,0,0.5,0.45
+Lee Westwood,players,0,0,2,0,0,0,0.5,4,1,0.25,players - (2015 - CUT) (2014 - Top 10) (2013 - Top 10) (2012 - Pos 61),2.835,0,0.5,0.5,0.5,3.835
+Joe Daley,players,0,0,0,0,0,0,0,1,1,1,players - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Robert Garrigus,players,0,0,0,0,0,0,0,5,4,0.8,players - (2015 - CUT) (2014 - CUT) (2013 - CUT) (2012 - CUT) (2011 - Pos 73),-2.825,0,0,0,0,-2.825
+Andrew Svoboda,players,0,0,0,0,0,0,0,1,1,1,players - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Matt Kuchar,players,1,1,0,0,1,0,0.5,6,1,0.16666667,players - (2016 - Top 5) (2015 - CUT) (2014 - Top 20) (2013 - Pos 48) (2012 - Win) (2011 - Pos 54),5.46,0.33333334,0.33333334,0.33333334,0.5,6.46
+Jason Bohn,players,0,0,0,0,0,0,0,5,3,0.6,players - (2016 - CUT) (2015 - CUT) (2014 - CUT) (2013 - Pos 55) (2011 - Pos 61),-2.28,0,0,0,0,-2.28
+Chris Stroud,players,0,0,0,1,0,0,0.16666667,6,1,0.16666667,players - (2016 - WD) (2015 - Pos 42) (2014 - MDF) (2013 - Pos 33) (2012 - CUT) (2011 - Top 15),0.915,0,0,0.16666667,0,0.915
+John Rollins,players,0,0,0,0,0,1,0.25,4,2,0.5,players - (2014 - MDF) (2013 - CUT) (2012 - Top 30) (2011 - CUT),-0.41,0,0,0,0,-0.41
+Jonas Blixt,players,0,0,0,0,1,0,0.25,4,1,0.25,players - (2016 - Top 20) (2015 - CUT) (2014 - MDF) (2013 - Pos 77),0.975,0,0,0,0.25,0.975
+Shawn Stefani,players,0,0,0,0,0,0,0,3,2,0.6666667,players - (2016 - Pos 72) (2015 - CUT) (2014 - CUT),-1.35,0,0,0,0,-1.35
+Bubba Watson,players,0,0,0,0,0,0,0,5,0,0,players - (2016 - Pos 43) (2015 - Pos 42) (2014 - Pos 48) (2013 - Pos 37) (2011 - Pos 45),1.365,0,0,0,0,1.365
+Emiliano Grillo,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Pat Perez,players,0,0,0,0,1,1,0.4,5,2,0.4,players - (2015 - Top 20) (2014 - Pos 48) (2013 - CUT) (2012 - Top 30) (2011 - CUT),0.805,0,0,0,0.2,0.805
+Paul Goydos,players,0,1,0,0,0,0,1,1,0,0,players - (2011 - Top 5),1.425,1,1,1,1,1.925
+Michael Connell,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Troy Merritt,players,0,0,0,0,0,0,0,3,1,0.33333334,players - (2016 - CUT) (2015 - Pos 72) (2011 - Pos 61),-0.51,0,0,0,0,-0.51
+Anirban Lahiri,players,0,0,0,0,0,0,0,1,1,1,players - (2015 - CUT),-0.9,0,0,0,0,-0.9
+Brandt Jobe,players,0,0,0,0,0,0,0,2,2,1,players - (2012 - CUT) (2011 - CUT),-1.1,0,0,0,0,-1.1
+Tiger Woods,players,1,0,0,0,0,0,0.25,4,0,0,players - (2015 - Pos 69) (2013 - Win) (2012 - Pos 40) (2011 - WD),2.745,0.25,0.25,0.25,0.25,3.245
+Henrik Stenson,players,0,1,0,1,1,0,0.5,6,2,0.33333334,players - (2016 - CUT) (2015 - Top 20) (2014 - Pos 34) (2013 - Top 5) (2012 - Top 15) (2011 - CUT),3.1,0.16666667,0.16666667,0.33333334,0.33333334,3.6
+Rocco Mediate,players,0,0,0,0,0,0,0,1,0,0,players - (2011 - Pos 54),0.175,0,0,0,0,0.175
+Blake Adams,players,0,0,0,1,0,0,0.5,2,1,0.5,players - (2012 - Top 15) (2011 - CUT),0.61,0,0,0.5,0,0.61
+John Mallinger,players,0,0,0,0,0,0,0,1,1,1,players - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Zach Johnson,players,0,1,0,2,1,1,0.8333333,6,0,0,players - (2016 - Pos 54) (2015 - Top 15) (2014 - Top 30) (2013 - Top 20) (2012 - Top 5) (2011 - Top 15),6.275,0.16666667,0.16666667,0.5,0.33333334,7.275
+Charles Howell III,players,0,0,0,0,0,0,0,6,4,0.6666667,players - (2016 - CUT) (2015 - Pos 56) (2014 - CUT) (2013 - Pos 66) (2012 - CUT) (2011 - CUT),-2.34,0,0,0,0,-2.34
+Danny Lee,players,0,0,0,0,0,0,0,2,1,0.5,players - (2016 - Pos 35) (2015 - CUT),-0.55,0,0,0,0,-0.55
+Ben Curtis,players,0,1,0,0,0,0,0.33333334,3,0,0,players - (2013 - Pos 75) (2012 - Top 5) (2011 - Pos 50),2.13,0.33333334,0.33333334,0.33333334,0.33333334,2.63
+Danny Willett,players,0,0,0,0,0,0,0,2,2,1,players - (2016 - CUT) (2015 - CUT),-1.9,0,0,0,0,-1.9
+Jason Kokrak,players,0,0,0,0,0,0,0,4,3,0.75,players - (2016 - WD) (2015 - CUT) (2014 - CUT) (2013 - CUT),-2.65,0,0,0,0,-2.65
+Chris DiMarco,players,0,0,0,0,0,0,0,1,1,1,players - (2012 - CUT),-0.6,0,0,0,0,-0.6
+Andres Gonzales,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Bernhard Langer,players,0,0,0,0,0,0,0,2,2,1,players - (2016 - CUT) (2015 - CUT),-1.9,0,0,0,0,-1.9
+Graham Delaet,players,0,0,0,0,0,1,0.2,5,2,0.4,players - (2016 - CUT) (2015 - Pos 56) (2014 - CUT) (2013 - Top 30) (2012 - Pos 70),-0.68,0,0,0,0,-0.68
+Cameron Tringale,players,0,0,0,0,1,0,0.2,5,2,0.4,players - (2016 - Top 20) (2015 - Pos 56) (2014 - CUT) (2013 - CUT) (2012 - Pos 72),0.375,0,0,0,0.2,0.375
+Webb Simpson,players,0,0,0,1,0,0,0.2,5,2,0.4,players - (2015 - Pos 66) (2014 - CUT) (2013 - Top 15) (2012 - CUT) (2011 - Pos 69),0.385,0,0,0.2,0,0.385
+Garrett Willis,players,0,0,0,0,0,0,0,1,0,0,players - (2011 - Pos 45),0.175,0,0,0,0,0.175
+David Duval,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Brian Gay,players,0,0,0,1,0,0,0.25,4,2,0.5,players - (2014 - CUT) (2013 - CUT) (2012 - Pos 46) (2011 - Top 15),-0.365,0,0,0.25,0,-0.365
+Sunghoon Kang,players,0,0,0,0,0,0,0,1,0,0,players - (2012 - Pos 61),0.21,0,0,0,0,0.21
+Robert Streb,players,0,0,0,0,0,1,0.5,2,1,0.5,players - (2016 - CUT) (2015 - Top 30),-0.235,0,0,0,0,-0.235
+Kiradech Aphibarnrat,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Mark Wilson,players,0,0,0,0,0,0,0,5,5,1,players - (2016 - CUT) (2014 - CUT) (2013 - CUT) (2012 - CUT) (2011 - CUT),-3.6,0,0,0,0,-3.6
+Daniel Summerhays,players,0,0,0,0,0,3,0.75,4,1,0.25,players - (2016 - Top 30) (2015 - CUT) (2014 - Top 30) (2013 - Top 30),1.225,0,0,0,0,1.225
+Ian Poulter,players,0,0,0,0,0,2,0.33333334,6,1,0.16666667,players - (2016 - Pos 57) (2015 - Top 30) (2014 - Pos 65) (2013 - CUT) (2012 - Top 30) (2011 - Pos 57),1.38,0,0,0,0,1.38
+K.J. Choi,players,1,0,0,1,0,0,0.33333334,6,1,0.16666667,players - (2016 - Pos 43) (2015 - Pos 42) (2014 - Top 15) (2013 - Pos 48) (2012 - CUT) (2011 - Win),3.465,0.16666667,0.16666667,0.33333334,0.16666667,3.965
+Scott Stallings,players,0,0,0,0,0,0,0,4,2,0.5,players - (2015 - Pos 75) (2014 - Pos 65) (2013 - CUT) (2012 - CUT),-0.705,0,0,0,0,-0.705
+Brian Stuard,players,0,0,0,0,1,0,0.25,4,3,0.75,players - (2016 - CUT) (2015 - CUT) (2014 - Top 20) (2013 - CUT),-1.52,0,0,0,0.25,-1.52
+Justin Thomas,players,0,1,0,0,0,1,1,2,0,0,players - (2016 - Top 5) (2015 - Top 30),3.615,0.5,0.5,0.5,0.5,4.115
+Kevin Na,players,0,0,2,0,0,0,0.4,5,2,0.4,players - (2016 - CUT) (2015 - Top 10) (2014 - Pos 38) (2012 - Top 10) (2011 - CUT),2.305,0,0.4,0.4,0.4,3.305
+Vaughn Taylor,players,0,0,0,0,0,0,0,2,2,1,players - (2016 - CUT) (2011 - CUT),-1.5,0,0,0,0,-1.5
+Sean O'Hair,players,0,0,0,0,1,0,0.2,5,2,0.4,players - (2016 - Pos 64) (2015 - CUT) (2013 - Pos 43) (2012 - CUT) (2011 - Top 20),-0.23,0,0,0,0.2,-0.23
+George McNeill,players,0,0,0,1,1,0,0.4,5,2,0.4,players - (2016 - CUT) (2015 - Top 20) (2014 - Top 15) (2013 - CUT) (2012 - Pos 64),1.205,0,0,0.2,0.2,1.205
+Justin Hicks,players,0,0,0,0,1,0,1,1,0,0,players - (2014 - Top 20),1.08,0,0,0,1,1.08
+Tommy Gainey,players,0,0,0,0,0,0,0,3,3,1,players - (2013 - CUT) (2012 - CUT) (2011 - CUT),-1.8,0,0,0,0,-1.8
+Alex Cejka,players,0,0,1,0,0,0,0.33333334,3,1,0.33333334,players - (2016 - Top 10) (2015 - Pos 74) (2011 - CUT),2.165,0,0.33333334,0.33333334,0.33333334,2.665
+Michael Sim,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Spencer Levin,players,0,0,0,2,0,0,0.5,4,2,0.5,players - (2016 - CUT) (2015 - CUT) (2012 - Top 15) (2011 - Top 15),0.135,0,0,0.5,0,0.135
+James Hahn,players,0,0,0,0,0,1,0.25,4,1,0.25,players - (2016 - Pos 43) (2015 - Top 30) (2014 - CUT) (2013 - Pos 62),0.56,0,0,0,0,0.56
+Graeme McDowell,players,0,0,1,0,0,0,0.16666667,6,2,0.33333334,players - (2016 - Top 10) (2015 - Pos 56) (2014 - Pos 62) (2013 - CUT) (2012 - CUT) (2011 - Pos 33),1.82,0,0.16666667,0.16666667,0.16666667,2.32
+John Merrick,players,0,0,0,0,0,0,0,3,2,0.6666667,players - (2014 - MDF) (2013 - CUT) (2012 - CUT),-1.02,0,0,0,0,-1.02
+Trevor Immelman,players,0,0,0,0,0,0,0,2,0,0,players - (2012 - Pos 56) (2011 - Pos 33),0.385,0,0,0,0,0.385
+Jimmy Walker,players,0,0,1,1,0,0,0.33333334,6,3,0.5,players - (2016 - CUT) (2015 - CUT) (2014 - Top 10) (2013 - Top 15) (2012 - Pos 35) (2011 - CUT),0.985,0,0.16666667,0.33333334,0.16666667,1.485
+Jim Herman,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Jamie Lovemark,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 64),0.35,0,0,0,0,0.35
+Patrick Rodgers,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Stephen Ames,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Edoardo Molinari,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+OVERALL PLAYER,players,0,0,0,0,0,0,0,6,0,0,players - (2016 - Pos -99) (2015 - Pos -99) (2014 - Pos -99) (2013 - Pos -99) (2012 - Pos -99) (2011 - Pos -99),1.575,0,0,0,0,1.575
+Francesco Molinari,players,0,0,2,0,0,0,0.4,5,3,0.6,players - (2016 - Top 10) (2014 - Top 10) (2013 - CUT) (2012 - CUT) (2011 - CUT),2.43,0,0.4,0.4,0.4,3.43
+Will Wilcox,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 72),0.35,0,0,0,0,0.35
+Aaron Baddeley,players,0,0,1,0,0,0,0.16666667,6,5,0.8333333,players - (2016 - CUT) (2015 - CUT) (2014 - CUT) (2013 - CUT) (2012 - CUT) (2011 - Top 10),-2.825,0,0.16666667,0.16666667,0.16666667,-2.325
+Byeong-Hun An,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Hunter Haas,players,0,0,0,0,0,0,0,2,0,0,players - (2012 - WD) (2011 - Pos 64),0.025,0,0,0,0,0.025
+Paul Casey,players,0,0,0,0,0,1,0.25,4,1,0.25,players - (2016 - Top 30) (2015 - WD) (2012 - WD) (2011 - CUT),-0.025,0,0,0,0,-0.025
+Charlie Wi,players,0,0,0,0,0,1,0.25,4,1,0.25,players - (2014 - CUT) (2013 - Pos 55) (2012 - Top 30) (2011 - Pos 41),0.13,0,0,0,0,0.13
+Ryo Ishikawa,players,0,0,1,0,0,0,1,1,0,0,players - (2015 - Top 10),2.115,0,1,1,1,2.615
+Roberto Castro,players,0,0,0,0,1,0,0.5,2,1,0.5,players - (2014 - CUT) (2013 - Top 20),0.145,0,0,0,0.5,0.145
+Padraig Harrington,players,0,0,0,0,0,0,0,5,3,0.6,players - (2016 - CUT) (2015 - Pos 42) (2013 - Pos 75) (2012 - CUT) (2011 - CUT),-1.54,0,0,0,0,-1.54
+Thorbjorn Olesen,players,0,0,0,0,0,0,0,1,1,1,players - (2013 - CUT),-0.7,0,0,0,0,-0.7
+Will MacKenzie,players,0,0,0,0,0,0,0,2,2,1,players - (2015 - CUT) (2014 - CUT),-1.7,0,0,0,0,-1.7
+Bernd Wiesberger,players,0,0,0,0,0,0,0,2,1,0.5,players - (2016 - Pos 49) (2015 - CUT),-0.55,0,0,0,0,-0.55
+Phil Mickelson,players,0,0,0,0,0,1,0.16666667,6,4,0.6666667,players - (2016 - CUT) (2015 - CUT) (2014 - CUT) (2013 - CUT) (2012 - Top 30) (2011 - Pos 33),-2.715,0,0,0,0,-2.715
+Ted Potter Jr.,players,0,0,0,0,0,0,0,2,2,1,players - (2014 - CUT) (2013 - CUT),-1.5,0,0,0,0,-1.5
+Shaun Micheel,players,0,0,0,0,0,0,0,1,1,1,players - (2011 - CUT),-0.5,0,0,0,0,-0.5
+Rory McIlroy,players,0,0,3,1,0,0,0.8,5,1,0.2,players - (2016 - Top 15) (2015 - Top 10) (2014 - Top 10) (2013 - Top 10) (2012 - CUT),6.89,0,0.6,0.8,0.6,8.89
+Rafa Cabrera Bello,players,0,0,0,0,0,0,0,1,1,1,players - (2016 - CUT),-1,0,0,0,0,-1
+Derek Fathauer,players,0,0,0,0,1,0,1,1,0,0,players - (2015 - Top 20),1.215,0,0,0,1,1.215
+Soren Kjeldsen,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 43),0.35,0,0,0,0,0.35
+Richard H. Lee,players,0,0,0,0,0,0,0,2,1,0.5,players - (2014 - Pos 65) (2013 - CUT),-0.42,0,0,0,0,-0.42
+Vijay Singh,players,0,0,0,0,0,1,0.2,5,3,0.6,players - (2016 - Top 30) (2015 - Pos 63) (2013 - CUT) (2012 - CUT) (2011 - CUT),-0.635,0,0,0,0,-0.635
+Hudson Swafford,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 57),0.35,0,0,0,0,0.35
+Matt Jones,players,0,0,0,0,2,0,0.4,5,3,0.6,players - (2016 - CUT) (2015 - CUT) (2014 - Top 20) (2013 - CUT) (2011 - Top 20),-0.845,0,0,0,0.4,-0.845
+Chad Collins,players,0,0,0,0,0,0,0,2,2,1,players - (2016 - CUT) (2011 - CUT),-1.5,0,0,0,0,-1.5
+Scott Piercy,players,0,0,0,0,0,1,0.25,4,3,0.75,players - (2016 - Top 30) (2015 - CUT) (2013 - CUT) (2012 - CUT),-1.35,0,0,0,0,-1.35
+Thomas Bjorn,players,0,0,0,0,0,0,0,1,1,1,players - (2014 - CUT),-0.8,0,0,0,0,-0.8
+Charley Hoffman,players,0,0,0,0,0,2,0.33333334,6,2,0.33333334,players - (2016 - CUT) (2015 - Top 30) (2014 - Pos 38) (2013 - Pos 37) (2012 - CUT) (2011 - Top 30),0.115,0,0,0,0,0.115
+Dustin Johnson,players,0,0,0,0,0,1,0.2,5,0,0,players - (2016 - Top 30) (2015 - Pos 69) (2014 - Pos 59) (2013 - WD) (2011 - Pos 57),1.445,0,0,0,0,1.445
+Scott Verplank,players,0,0,0,0,0,0,0,2,0,0,players - (2012 - WD) (2011 - Pos 54),0.025,0,0,0,0,0.025
+David Lingmerth,players,0,1,0,0,0,0,0.33333334,3,2,0.6666667,players - (2016 - CUT) (2014 - CUT) (2013 - Top 5),0.195,0.33333334,0.33333334,0.33333334,0.33333334,0.695
+Zac Blair,players,0,0,0,0,0,0,0,1,0,0,players - (2016 - Pos 49),0.35,0,0,0,0,0.35
+Matteo Manassero,players,0,0,0,0,0,0,0,1,0,0,players - (2011 - Pos 64),0.175,0,0,0,0,0.175
+Brendon Todd,players,0,0,0,0,0,0,0,2,1,0.5,players - (2016 - CUT) (2015 - Pos 51),-0.685,0,0,0,0,-0.685
+Kevin Streelman,players,0,1,0,0,1,0,0.33333334,6,2,0.33333334,players - (2016 - Pos 74) (2015 - CUT) (2014 - CUT) (2013 - Top 5) (2012 - Pos 51) (2011 - Top 20),1.53,0.16666667,0.16666667,0.16666667,0.33333334,2.03
+Brandt Snedeker,players,0,0,1,0,0,0,0.16666667,6,4,0.6666667,players - (2016 - CUT) (2015 - CUT) (2014 - Pos 48) (2013 - Top 10) (2012 - CUT) (2011 - CUT),-1.075,0,0.16666667,0.16666667,0.16666667,-0.575
+Ricky Barnes,players,0,0,0,0,0,0,0,5,3,0.6,players - (2016 - CUT) (2015 - CUT) (2013 - Pos 72) (2012 - Pos 46) (2011 - CUT),-1.945,0,0,0,0,-1.945
+Ryan Moore,players,0,0,0,0,0,1,0.16666667,6,3,0.5,players - (2016 - CUT) (2015 - CUT) (2014 - Top 30) (2013 - CUT) (2012 - Pos 46) (2011 - Pos 33),-1.535,0,0,0,0,-1.535

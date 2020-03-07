@@ -1,0 +1,201 @@
+POS,MOV,PLAYER,OVERALL,THRU,RND,R1,R2,R3,R4,TOT
+1,-,"Stricker, Steve",-16,F,-4,68,67,69,68,272
+T2,1,"Jobe, Brandt",-15,F,-7,71,68,69,65,273
+T2,1,"Kuchar, Matt",-15,F,-7,69,71,68,65,273
+4,10,"Johnson, Dustin",-12,F,-7,68,73,70,65,276
+5,-,"McIlroy, Rory",-11,F,-4,66,72,71,68,277
+6,2,"Woodland, Gary",-10,F,-4,72,69,69,68,278
+T7,10,"Donald, Luke",-8,F,-4,70,69,73,68,280
+T7,10,"Simpson, Webb",-8,F,-4,72,70,70,68,280
+T7,18,"Streelman, Kevin",-8,F,-6,74,68,72,66,280
+T7,2,"Wilson, Mark",-8,F,-1,70,73,66,71,280
+T13,5,"Mahan, Hunter",-7,F,-1,69,72,69,71,281
+T13,12,"Mickelson, Phil",-7,F,-5,72,70,72,67,281
+T13,12,"Van Pelt, Bo",-7,F,-5,72,70,72,67,281
+T13,1,"Wetterich, Brett",-7,F,-2,70,71,70,70,281
+18,1,"Barnes, Ricky",-6,F,-2,68,70,74,70,282
+20,16,"Points, D.A.",-5,F,-4,71,72,72,68,283
+T22,3,"Cabrera, Angel",-4,F,-2,70,73,71,70,284
+T22,21,"Choi, K.J.",-4,F,-4,70,73,73,68,284
+T22,14,"Fowler, Rickie",-4,F,-3,68,73,74,69,284
+T22,3,"Moore, Ryan",-4,F,-2,69,70,75,70,284
+T22,1,"Schwartzel, Charl",-4,F,-1,72,71,70,71,284
+T30,6,"Cink, Stewart",-3,F,-2,68,73,74,70,285
+T30,28,"Perez, Pat",-3,F,-5,71,74,73,67,285
+T30,28,"Riley, Chris",-3,F,-5,66,75,77,67,285
+T37,29,"Chappell, Kevin",-2,F,4,69,73,68,76,286
+T37,12,"Love III, Davis",-2,F,E,69,73,72,72,286
+T37,32,"Singh, Vijay",-2,F,-7,73,72,76,65,286
+T37,6,"Stanley, Kyle",-2,F,-2,72,73,71,70,286
+T42,16,"Hoffman, Charley",-1,F,-3,69,74,75,69,287
+T42,6,"Watson, Bubba",-1,F,E,75,69,71,72,287
+T45,20,"Baddeley, Aaron",E,F,2,71,68,75,74,288
+T45,2,"Haas, Bill",E,F,E,71,71,74,72,288
+T45,20,"Henry, J.J.",E,F,2,70,75,69,74,288
+T45,2,"Teater, Josh",E,F,E,67,72,77,72,288
+T45,2,"Weaver, Drew",E,F,E,71,70,75,72,288
+T51,7,"Atwal, Arjun",1,F,-1,73,71,74,71,289
+T51,8,"Holmes, J.B.",1,F,1,72,72,72,73,289
+T51,8,"Mediate, Rocco",1,F,1,68,76,72,73,289
+61,5,"Els, Ernie",2,F,-1,71,73,75,71,290
+62,54,"Leishman, Marc",3,F,9,73,71,66,81,291
+T63,12,"Molinari, Edoardo",4,F,3,72,69,76,75,292
+T63,5,"Wi, Charlie",4,F,2,73,72,73,74,292
+70,2,"Duval, David",8,F,4,72,73,75,76,296
+71,2,"Leonard, Justin",9,F,1,73,72,79,73,297
+-,-,"Ames, Stephen",E,1:45 PM,,,,,,
+-,-,"Aragon, Alex",E,2:30 PM,,,,,,
+-,-,"Austin, Woody",E,8:18 AM,,,,,,
+-,-,"Baird, Briny",E,2:12 PM
+-,-,"Barlow, Craig",E,1:00 PM
+-,-,"Baryla, Christopher",E,9:21 AM
+
+-,-,"Beckman, Cameron",E,1:45 PM
+-,-,"Beem, Rich",E,2:03 PM
+-,-,"Bertsch, Shane",E,1:09 PM
+-,-,"Bowden, Craig",E,9:03 AM
+-,-,"Bowditch, Steven",E,9:48 AM
+-,-,"Bradley, Michael",E,8:27 AM
+-,-,"Bramlett, Joseph",E,9:48 AM
+-,-,"Brigman, D.J.",E,9:21 AM
+-,-,"Campbell, Chad",E,2:03 PM
+-,-,"Chalmers, Greg",E,1:00 PM
+-,-,"Collins, Chad",E,1:54 PM
+-,-,"Connell, Michael",E,8:09 AM
+-,-,"Crane, Ben",E,8:27 AM
+-,-,"Daly, John",E,8:00 AM
+-,-,"Damron, Robert",E,9:03 AM
+-,-,"Dawson, Marco",E,1:09 PM
+-,-,"Delaet, Graham",E,8:54 AM
+-,-,"Driscoll, James",E,8:00 AM
+-,-,"Durant, Joe",E,1:54 PM
+-,-,"Estes, Bob",E,8:54 AM
+-,-,"Flesch, Steve",E,8:54 AM
+-,-,"Frazar, Harrison",E,8:00 AM
+-,-,"Garcia, Sergio",E,8:27 AM
+-,-,"Gay, Brian",E,8:36 AM
+-,-,"Gomez, Fabian",E,2:30 PM
+-,-,"Gonzales, Andres",E,9:21 AM
+-,-,"Goosen, Retief",E,8:27 AM
+-,-,"Gordon, Scott",E,2:48 PM
+-,-,"Gore, Jason",E,1:18 PM
+-,-,"Gutschewski, Scott",E,2:21 PM
+-,-,"Harrington, Padraig",E,1:27 PM
+-,-,"Hayes, J.P.",E,1:18 PM
+-,-,"Hearn, David",E,9:48 AM
+-,-,"Henley III, Kip",E,2:39 PM
+-,-,"Hensby, Mark",E,1:54 PM
+-,-,"Herman, Jim",E,9:21 AM
+-,-,"Hicks, Justin",E,2:21 PM
+-,-,"Horschel, Billy",E,9:21 AM
+-,-,"Hudson, Bobby (a)",E,2:39 PM
+-,-,"Jacobson, Freddie",E,8:00 AM
+-,-,"Janzen, Lee",E,1:18 PM
+-,-,"Johnson, Richard",E,8:09 AM
+-,-,"Johnson, Zach",E,8:27 AM
+-,-,"Jones, Kent",E,2:12 PM
+-,-,"Kang, Sunghoon",E,2:39 PM
+-,-,"Kim, Anthony",E,8:27 AM
+-,-,"Kim, Bio",E,9:48 AM
+-,-,"Kisner, Kevin",E,9:30 AM
+-,-,"Klauk, Jeff",E,2:03 PM
+-,-,"Lee, Steven",E,2:30 PM
+-,-,"Letzig, Michael",E,9:12 AM
+-,-,"Lickliter II, Frank",E,8:09 AM
+-,-,"Lyle, Jarrod",E,2:21 PM
+-,-,"MacKenzie, Will",E,1:54 PM
+-,-,"Mallinger, John",E,9:03 AM
+-,-,"Martin, Ben",E,2:39 PM
+-,-,"Mathis, David",E,2:21 PM
+-,-,"Mattiace, Len",E,8:18 AM
+-,-,"McGirt, William",E,2:48 PM
+-,-,"McLardy, Andrew",E,9:30 AM
+-,-,"McNeill, George",E,1:00 PM
+-,-,"McQuillan, Matt",E,2:39 PM
+-,-,"Merrick, John",E,8:09 AM
+-,-,"Ogilvie, Joe",E,1:54 PM
+-,-,"Ogilvy, Geoff",E,1:36 PM
+-,-,"Paolucci, Anthony (a)",E,9:39 AM
+-,-,"Paulson, Carl",E,2:03 PM
+-,-,"Percy, Cameron",E,2:30 PM
+-,-,"Pernice Jr., Tom",E,1:09 PM
+-,-,"Piller, Martin",E,2:48 PM
+-,-,"Price, Aron",E,9:30 AM
+-,-,"Pride, Dicky",E,8:54 AM
+-,-,"Putnam, Michael",E,9:39 AM
+-,-,"Quinn, Fran",E,9:48 AM
+-,-,"Quinney, Jeff",E,8:09 AM
+-,-,"Reed, Patrick",E,2:48 PM
+-,-,"Renner, Jim",E,9:30 AM
+-,-,"Richardson, Clark",E,2:48 PM
+-,-,"Ridings, Tag",E,1:09 PM
+-,-,"Rocha, Alexandre",E,9:48 AM
+-,-,"Rollins, John",E,8:45 AM
+-,-,"Saunders, Sam",E,2:21 PM
+-,-,"Slocum, Heath",E,8:45 AM
+-,-,"Small, Mike",E,2:48 PM
+-,-,"Smith, Nate",E,8:00 AM
+-,-,"Snedeker, Brandt",E,1:27 PM
+-,-,"Stankowski, Paul",E,9:12 AM
+-,-,"Strickler, Will",E,9:30 AM
+-,-,"Stroud, Chris",E,1:09 PM
+-,-,"Thompson, Michael",E,9:39 AM
+-,-,"Tidland, Chris",E,9:21 AM
+-,-,"Toms, David",E,1:27 PM
+-,-,"Triplett, Kirk",E,2:12 PM
+-,-,"Turnesa, Marc",E,1:45 PM
+-,-,"Veazey, Vance",E,2:21 PM
+-,-,"Verplank, Scott",E,8:45 AM
+-,-,"Weekley, Boo",E,1:00 PM
+-,-,"Weibring, Matt",E,9:39 AM
+-,-,"Westwood, Lee",E,1:36 PM
+-,-,"Willis, Garrett",E,8:09 AM
+-,-,"Yang, Y.E.",E,1:36 PM
+-,-,"Allenby, Robert *",E,
+-,-,"Appleby, Stuart *",E,
+-,-,"Blanks, Kris",E,
+-,-,"Bradley, Keegan",E,
+-,-,"Gates, Bobby *",E,
+-,-,"Gillis, Tom *",E,
+-,-,"Hamilton, Todd",E,
+-,-,"Herron, Tim *",E,,,,,,,
+-,-,"Kelly, Jerry",E,,,,,,,
+-,-,"Knost, Colt",E,,,,,,,
+-,-,"Levin, Spencer *",E,,,,,,,
+-,-,"Marino, Steve",E,,,,,,,
+-,-,"Mayfair, Billy *",E,,,,,,,
+-,-,"McCarron, Scott",E,,,,,,,
+-,-,"Pettersson, Carl *",E,,,,,,,
+-,-,"Quigley, Brett",E,,,,,,,
+-,-,"Tringale, Cameron",E,,,,,,,
+-,-,"Vegas, Jhonattan *",E,,,,,,,
+-,-,"Walker, Jimmy *",E,,,,,,,
+
+CUT,-,"Aiken, Thomas *",2,,,75,71,,,146
+CUT,-,"Laird, Martin *",2,,,75,71,,,146
+CUT,-,"O'Hair, Sean",2,,,76,70,,,146
+CUT,-,"Petrovic, Tim",2,,,70,76,,,146
+CUT,-,"Prugh, Alex *",2,,,74,72,,,146
+CUT,-,"Rose, Justin",2,,,71,75,,,146
+CUT,-,"Stenson, Henrik *",2,,,79,67,,,146
+CUT,-,"Kirk, Chris *",3,,,70,77,,,147
+CUT,-,"Overton, Jeff *",3,,,75,72,,,147
+CUT,-,"Gainey, Tommy *",4,,,78,70,,,148
+CUT,-,"Immelman, Trevor",4,,,78,70,,,148
+CUT,-,"Noh, Seung-Yul",4,,,76,72,,,148
+CUT,-,"Palmer, Ryan *",4,,,74,74,,,148
+CUT,-,"Taylor, Vaughn *",4,,,72,76,,,148
+CUT,-,"Perry, Kenny",6,,,80,70,,,150
+CUT,-,"Thatcher, Roland *",6,,,76,74,,,150
+CUT,-,"Couples, Fred *",7,,,79,72,,,151
+CUT,-,"Glover, Lucas",7,,,72,79,,,151
+CUT,-,"Haas, Hunter *",7,,,77,74,,,151
+CUT,-,"Furyk, Jim",8,,,77,75,,,152
+CUT,-,"Wong, Eugene",8,,,80,72,,,152
+CUT,-,"Jones, Matt",13,,,82,75,,,157
+CUT,-,"Weir, Mike *",14,,,76,82,,,158
+CUT,-,"Jeong, Jin",18,,,76,86,,,162
+DQ,-,"Luiten, Joost",4,,,76,,,,76
+WD,-,"Trahan, D.J.",E,,,,,,,
+WD,-,"Lunde, Bill",2,,,74,,,,74
+WD,-,"Lamely, Derek *",10,,,,,,,

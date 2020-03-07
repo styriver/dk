@@ -1,0 +1,66 @@
+POS,MOV,PLAYER,OVERALL,THRU,RND,R1,R2,R3,R4,TOT
+1,1,"Mickelson, Phil",-16,F,-5,69,68,65,66,268
+2,8,"Thomas, Justin",-16,F,-7,72,70,62,64,268
+T3,1,"Cabrera Bello, Rafa",-15,F,-4,66,67,69,67,269
+T3,1,"Hatton, Tyrrell",-15,F,-4,70,68,64,67,269
+T5,6,"Aphibarnrat, Kiradech",-13,F,-6,66,69,71,65,271
+T5,1,"Harman, Brian",-13,F,-3,68,67,68,68,271
+T7,5,"Garcia, Sergio",-12,F,-1,68,65,69,70,272
+T7,1,"Johnson, Dustin",-12,F,-2,69,66,68,69,272
+T9,12,"Hadwin, Adam",-10,F,-5,70,71,67,66,274
+T9,8,"Sharma, Shubhankar",-10,F,3,65,66,69,74,274
+T9,8,"Watson, Bubba",-10,F,-4,69,66,72,67,274
+T12,14,"Casey, Paul",-9,F,-5,73,68,68,66,275
+T12,14,"Kizzire, Patton",-9,F,-5,69,69,71,66,275
+T14,12,"Berger, Daniel",-8,F,-4,69,68,72,67,276
+T14,15,"Fleetwood, Tommy",-8,F,-5,72,71,67,66,276
+T14,15,"Noren, Alexander",-8,F,-5,69,70,71,66,276
+T14,3,"Spieth, Jordan",-8,F,-1,70,67,69,70,276
+T18,3,"Bland, Adam",-7,F,-2,70,67,71,69,277
+T18,12,"Schauffele, Xander",-7,F,3,65,68,70,74,277
+T20,9,"Hoffman, Charley",-6,F,1,70,66,70,72,278
+T20,14,"Perez, Pat",-6,F,4,68,67,68,75,278
+T20,1,"Rahm, Jon",-6,F,-1,67,71,70,70,278
+T20,9,"Steele, Brendan",-6,F,1,69,66,71,72,278
+T20,3,"Vegas, Jhonattan",-6,F,E,70,68,69,71,278
+T25,7,"Molinari, Francesco",-5,F,-3,71,70,70,68,279
+T25,8,"Stanley, Kyle",-5,F,1,71,65,71,72,279
+T27,10,"Campillo, Jorge *",-4,F,-3,72,71,69,68,280
+T27,16,"Finau, Tony",-4,F,3,68,70,68,74,280
+29,12,"Kisner, Kevin",-3,F,3,70,71,66,74,281
+T30,24,"Burmester, Dean *",-2,F,-6,73,70,74,65,282
+T30,20,"Cantlay, Patrick *",-2,F,-5,70,75,71,66,282
+T30,16,"Chappell, Kevin *",-2,F,-4,73,70,72,67,282
+T30,12,"Fitzpatrick, Matthew *",-2,F,-3,71,69,74,68,282
+T30,12,"Grace, Branden *",-2,F,-3,72,69,73,68,282
+T30,2,"Oosthuizen, Louis *",-2,F,E,64,71,76,71,282
+T30,20,"Wiesberger, Bernd *",-2,F,-5,73,71,72,66,282
+T37,16,"Fowler, Rickie",-1,F,4,68,70,70,75,283
+T37,26,"Leishman, Marc",-1,F,6,69,68,69,77,283
+T37,5,"Luiten, Joost *",-1,F,1,72,71,68,72,283
+T37,5,"Paisley, Chris",-1,F,1,65,75,71,72,283
+T37,5,"Pieters, Thomas *",-1,F,1,69,68,74,72,283
+T37,5,"Reed, Patrick *",-1,F,-2,72,74,68,69,283
+T37,13,"Rose, Justin *",-1,F,-4,71,72,73,67,283
+T37,9,"Simpson, Webb *",-1,F,-3,72,70,73,68,283
+T37,13,"Uihlein, Peter *",-1,F,-4,74,72,70,67,283
+T46,25,"Fisher, Ross",E,F,5,71,68,69,76,284
+T46,-,"Ikeda, Yuta *",E,F,-2,73,74,68,69,284
+T48,11,"Lipsky, David *",1,F,2,70,71,71,73,285
+T48,19,"Schwartzel, Charl",1,F,4,71,69,70,75,285
+T50,4,"Ormsby, Wade *",2,F,E,79,67,69,71,286
+T50,5,"Woodland, Gary *",2,F,-3,74,71,73,68,286
+T52,3,"Ancer, Abraham *",3,F,-2,71,76,71,69,287
+T52,12,"Reavie, Chez *",3,F,3,72,73,68,74,287
+54,1,"Kodaira, Satoshi *",4,F,-1,72,73,73,70,288
+T55,18,"Dufner, Jason *",7,F,8,72,72,68,79,291
+T55,3,"Dunne, Paul *",7,F,E,73,75,72,71,291
+T55,13,"Frittelli, Dylan *",7,F,6,73,70,71,77,291
+T58,18,"Henley, Russell *",8,F,8,69,69,75,79,292
+T58,1,"Kuchar, Matt *",8,F,E,74,74,73,71,292
+T60,1,"Miyazato, Yusaku *",9,F,-1,77,72,74,70,293
+T60,-,"Stone, Brandon *",9,F,E,75,76,71,71,293
+62,-,"Rumford, Brett *",13,F,2,78,74,72,73,297
+63,-,"Li, Hao-Tong *",14,F,2,73,79,73,73,298
+64,1,"Green, Gavin Kyle *",15,F,3,78,73,74,74,299
+DNS,-,"Kim, Chan",E,,,,,,,

@@ -1,0 +1,52 @@
+
+T-Index
+=IFERROR(VLOOKUP(A2,tourney!$A$2:$S$500,19,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,tourney!$A$2:$S$599,19,FALSE)),"",VLOOKUP(A2,tourney!$A$2:$S$599,19,FALSE))
+
+C-Index
+=IFERROR(VLOOKUP(A2,overall!$A$2:$S$500,19,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,overall!$A$2:$S$599,19,FALSE)),"",VLOOKUP(A2,overall!$A$2:$S$599,19,FALSE))
+
+O-INDEX 
+=IFERROR(($E2*0.8)+$F2,$F2)
+=IF(ISERROR(($E2*0.8)+$F2),$F2,($E2*0.8)+$F2)
+
+Made Cut
+=IFERROR(1-VLOOKUP(A2,overall!$A$2:$N$500,12,FALSE),"")
+=IF(ISERROR(1-VLOOKUP(A2,overall!$A$2:$N$500,12,FALSE)),"",1-VLOOKUP(A2,overall!$A$2:$N$500,12,FALSE))
+
+Top 10%
+=IFERROR(VLOOKUP(A2,overall!$A$2:$Z$500,15,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,overall!$A$2:$Z$500,15,FALSE)),"",VLOOKUP(A2,overall!$A$2:$Z$500,15,FALSE))
+
+Top 30%
+=IFERROR(VLOOKUP(A2,overall!$A$2:$N$500,9,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,rankings!$D$2:$G$301,2,FALSE)),"",VLOOKUP(A2,rankings!$D$2:$G$301,2,FALSE))
+
+OWGR Trend YTD
+=IFERROR(VLOOKUP(A2,rankings!$D$2:$L$401,8,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,rankings!$D$2:$G$301,2,FALSE)),"",VLOOKUP(A2,rankings!$D$2:$G$301,2,FALSE))
+
+OWGR - Week
+=IFERROR(VLOOKUP(A2,rankings!$D$2:$L$401,9,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,rankings!$D$2:$G$301,3,FALSE)),"",VLOOKUP(A2,rankings!$D$2:$G$301,3,FALSE))
+
+T-Notes
+=IF(ERROR(VLOOKUP(A2,tourney!$A$2:$M$500,13,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,tourney!$A$2:$M$500,13,FALSE)),"",VLOOKUP(A2,tourney!$A$2:$M$500,13,FALSE))
+
+O-Notes
+=IFERROR(VLOOKUP(A2,overall!$A$2:$M$500,13,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,overall!$A$2:$M$500,13,FALSE)),"",VLOOKUP(A2,overall!$A$2:$M$500,13,FALSE))
+
+T-Entered
+=IFERROR(VLOOKUP(A2,tourney!$A$2:$M$500,10,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,tourney!$A$2:$M$500,10,FALSE)),"",VLOOKUP(A2,tourney!$A$2:$M$500,10,FALSE))
+
+O-Entered
+=IFERROR(VLOOKUP(A2,overall!$A$2:$N$500,10,FALSE),"")
+=IF(ISERROR(VLOOKUP(A2,overall!$A$2:$N$500,10,FALSE)),"",VLOOKUP(A2,overall!$A$2:$N$500,10,FALSE))
+
+First Name Last Name Switch
+
+=MID(C1&" "&C1,FIND(" ",C1)+1,LEN(C1))
